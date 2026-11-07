@@ -1,0 +1,147 @@
+{
+  "game": "Minecraft Java Edition 1.20.1",
+  "credit": "Mojang / Microsoft. Original game assets, not CC0.",
+  "assetIndex": "https://piston-meta.mojang.com/v1/packages/8a45c6be38ac9486b04944bffcb96f8aae1b0649/5.json",
+  "assets": [
+    {
+      "name": "dig/stone1",
+      "url": "https://resources.download.minecraft.net/4e/4e094ed8dfa98656d8fec52a7d20c5ee6098b6ad",
+      "sha1": "4e094ed8dfa98656d8fec52a7d20c5ee6098b6ad"
+    },
+    {
+      "name": "dig/stone2",
+      "url": "https://resources.download.minecraft.net/9c/9c92f697142ae320584bf64c0d54381d59703528",
+      "sha1": "9c92f697142ae320584bf64c0d54381d59703528"
+    },
+    {
+      "name": "dig/stone3",
+      "url": "https://resources.download.minecraft.net/8f/8f23c02475d388b23e5faa680eafe6b991d7a9d4",
+      "sha1": "8f23c02475d388b23e5faa680eafe6b991d7a9d4"
+    },
+    {
+      "name": "dig/stone4",
+      "url": "https://resources.download.minecraft.net/36/363545a76277e5e47538b2dd3a0d6aa4f7a87d34",
+      "sha1": "363545a76277e5e47538b2dd3a0d6aa4f7a87d34"
+    },
+    {
+      "name": "dig/wood1",
+      "url": "https://resources.download.minecraft.net/9b/9bc2a84d0aa98113fc52609976fae8fc88ea6333",
+      "sha1": "9bc2a84d0aa98113fc52609976fae8fc88ea6333"
+    },
+    {
+      "name": "dig/wood2",
+      "url": "https://resources.download.minecraft.net/98/98102533e6085617a2962157b4f3658f59aea018",
+      "sha1": "98102533e6085617a2962157b4f3658f59aea018"
+    },
+    {
+      "name": "dig/wood3",
+      "url": "https://resources.download.minecraft.net/45/45b2aef7b5049e81b39b58f8d631563fadcc778b",
+      "sha1": "45b2aef7b5049e81b39b58f8d631563fadcc778b"
+    },
+    {
+      "name": "dig/wood4",
+      "url": "https://resources.download.minecraft.net/dc/dc66978374a46ab2b87db6472804185824868095",
+      "sha1": "dc66978374a46ab2b87db6472804185824868095"
+    },
+    {
+      "name": "dig/grass1",
+      "url": "https://resources.download.minecraft.net/41/41cbf5dd08e951ad65883854e74d2e034929f572",
+      "sha1": "41cbf5dd08e951ad65883854e74d2e034929f572"
+    },
+    {
+      "name": "dig/grass2",
+      "url": "https://resources.download.minecraft.net/86/86cb1bb0c45625b18e00a64098cd425a38f6d3f2",
+      "sha1": "86cb1bb0c45625b18e00a64098cd425a38f6d3f2"
+    },
+    {
+      "name": "dig/grass3",
+      "url": "https://resources.download.minecraft.net/f7/f7d7e5c7089c9b45fa5d1b31542eb455fad995db",
+      "sha1": "f7d7e5c7089c9b45fa5d1b31542eb455fad995db"
+    },
+    {
+      "name": "dig/grass4",
+      "url": "https://resources.download.minecraft.net/c7/c7b1005d4926f6a2e2387a41ab1fb48a72f18e98",
+      "sha1": "c7b1005d4926f6a2e2387a41ab1fb48a72f18e98"
+    },
+    {
+      "name": "dig/sand1",
+      "url": "https://resources.download.minecraft.net/9e/9e59c3650c6c3fc0a475f1b753b2fcfef430bf81",
+      "sha1": "9e59c3650c6c3fc0a475f1b753b2fcfef430bf81"
+    },
+    {
+      "name": "dig/sand2",
+      "url": "https://resources.download.minecraft.net/0f/0fa4234797f336ada4e3735e013e44d1099afe57",
+      "sha1": "0fa4234797f336ada4e3735e013e44d1099afe57"
+    },
+    {
+      "name": "dig/sand3",
+      "url": "https://resources.download.minecraft.net/c7/c75589cc0087069f387de127dd1499580498738e",
+      "sha1": "c75589cc0087069f387de127dd1499580498738e"
+    },
+    {
+      "name": "dig/sand4",
+      "url": "https://resources.download.minecraft.net/37/37afa06f97d58767a1cd1382386db878be1532dd",
+      "sha1": "37afa06f97d58767a1cd1382386db878be1532dd"
+    },
+    {
+      "name": "dig/gravel1",
+      "url": "https://resources.download.minecraft.net/e8/e8b89f316f3e9989a87f6e6ff12db9abe0f8b09f",
+      "sha1": "e8b89f316f3e9989a87f6e6ff12db9abe0f8b09f"
+    },
+    {
+      "name": "dig/gravel2",
+      "url": "https://resources.download.minecraft.net/c3/c3b3797d04cb9640e1d3a72d5e96edb410388fa3",
+      "sha1": "c3b3797d04cb9640e1d3a72d5e96edb410388fa3"
+    },
+    {
+      "name": "dig/gravel3",
+      "url": "https://resources.download.minecraft.net/48/48f7e1bb098abd36b9760cca27b9d4391a23de26",
+      "sha1": "48f7e1bb098abd36b9760cca27b9d4391a23de26"
+    },
+    {
+      "name": "dig/gravel4",
+      "url": "https://resources.download.minecraft.net/7b/7bf3553a4fe41a0078f4988a13d6e1ed8663ef4c",
+      "sha1": "7bf3553a4fe41a0078f4988a13d6e1ed8663ef4c"
+    },
+    {
+      "name": "dig/snow1",
+      "url": "https://resources.download.minecraft.net/e9/e9bab7d3d15541f0aaa93fad31ad37fd07e03a6c",
+      "sha1": "e9bab7d3d15541f0aaa93fad31ad37fd07e03a6c"
+    },
+    {
+      "name": "dig/snow2",
+      "url": "https://resources.download.minecraft.net/58/5887d10234c4f244ec5468080412f3e6ef9522f3",
+      "sha1": "5887d10234c4f244ec5468080412f3e6ef9522f3"
+    },
+    {
+      "name": "dig/snow3",
+      "url": "https://resources.download.minecraft.net/a4/a4bc069321a96236fde04a3820664cc23b2ea619",
+      "sha1": "a4bc069321a96236fde04a3820664cc23b2ea619"
+    },
+    {
+      "name": "dig/snow4",
+      "url": "https://resources.download.minecraft.net/e2/e26fa3036cdab4c2264ceb19e1cd197a2a510227",
+      "sha1": "e26fa3036cdab4c2264ceb19e1cd197a2a510227"
+    },
+    {
+      "name": "dig/cloth1",
+      "url": "https://resources.download.minecraft.net/5f/5fd568d724ba7d53911b6cccf5636f859d2662e8",
+      "sha1": "5fd568d724ba7d53911b6cccf5636f859d2662e8"
+    },
+    {
+      "name": "dig/cloth2",
+      "url": "https://resources.download.minecraft.net/56/56c1d0ac0de2265018b2c41cb571cc6631101484",
+      "sha1": "56c1d0ac0de2265018b2c41cb571cc6631101484"
+    },
+    {
+      "name": "dig/cloth3",
+      "url": "https://resources.download.minecraft.net/9c/9c63f2a3681832dc32d206f6830360bfe94b5bfc",
+      "sha1": "9c63f2a3681832dc32d206f6830360bfe94b5bfc"
+    },
+    {
+      "name": "dig/cloth4",
+      "url": "https://resources.download.minecraft.net/55/55da1856e77cfd31a7e8c3d358e1f856c5583198",
+      "sha1": "55da1856e77cfd31a7e8c3d358e1f856c5583198"
+    }
+  ]
+}

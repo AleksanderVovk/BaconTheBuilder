@@ -1,0 +1,312 @@
+{
+    "version": 1,
+    "blockSize": 1.0,
+    "pickupPoint": {
+        "x": -4.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "trainingPoint": {
+        "x": 4.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "sites": [
+        {
+            "id": "Pyramid",
+            "origin": {
+                "x": -2.5,
+                "y": 0.0,
+                "z": 5.0
+            },
+            "yaw": 0.0,
+            "deliveryPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 3.0
+            },
+            "blocks": [
+                {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "order": 0
+                },
+                {
+                    "position": {
+                        "x": 1,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "order": 1
+                },
+                {
+                    "position": {
+                        "x": 2,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "order": 2
+                },
+                {
+                    "position": {
+                        "x": 3,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "order": 3
+                },
+                {
+                    "position": {
+                        "x": 4,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "order": 4
+                },
+                {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 1
+                    },
+                    "order": 5
+                },
+                {
+                    "position": {
+                        "x": 1,
+                        "y": 0,
+                        "z": 1
+                    },
+                    "order": 6
+                },
+                {
+                    "position": {
+                        "x": 2,
+                        "y": 0,
+                        "z": 1
+                    },
+                    "order": 7
+                },
+                {
+                    "position": {
+                        "x": 3,
+                        "y": 0,
+                        "z": 1
+                    },
+                    "order": 8
+                },
+                {
+                    "position": {
+                        "x": 4,
+                        "y": 0,
+                        "z": 1
+                    },
+                    "order": 9
+                },
+                {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 2
+                    },
+                    "order": 10
+                },
+                {
+                    "position": {
+                        "x": 1,
+                        "y": 0,
+                        "z": 2
+                    },
+                    "order": 11
+                },
+                {
+                    "position": {
+                        "x": 2,
+                        "y": 0,
+                        "z": 2
+                    },
+                    "order": 12
+                },
+                {
+                    "position": {
+                        "x": 3,
+                        "y": 0,
+                        "z": 2
+                    },
+                    "order": 13
+                },
+                {
+                    "position": {
+                        "x": 4,
+                        "y": 0,
+                        "z": 2
+                    },
+                    "order": 14
+                },
+                {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 3
+                    },
+                    "order": 15
+                },
+                {
+                    "position": {
+                        "x": 1,
+                        "y": 0,
+                        "z": 3
+                    },
+                    "order": 16
+                },
+                {
+                    "position": {
+                        "x": 2,
+                        "y": 0,
+                        "z": 3
+                    },
+                    "order": 17
+                },
+                {
+                    "position": {
+                        "x": 3,
+                        "y": 0,
+                        "z": 3
+                    },
+                    "order": 18
+                },
+                {
+                    "position": {
+                        "x": 4,
+                        "y": 0,
+                        "z": 3
+                    },
+                    "order": 19
+                },
+                {
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 4
+                    },
+                    "order": 20
+                },
+                {
+                    "position": {
+                        "x": 1,
+                        "y": 0,
+                        "z": 4
+                    },
+                    "order": 21
+                },
+                {
+                    "position": {
+                        "x": 2,
+                        "y": 0,
+                        "z": 4
+                    },
+                    "order": 22
+                },
+                {
+                    "position": {
+                        "x": 3,
+                        "y": 0,
+                        "z": 4
+                    },
+                    "order": 23
+                },
+                {
+                    "position": {
+                        "x": 4,
+                        "y": 0,
+                        "z": 4
+                    },
+                    "order": 24
+                },
+                {
+                    "position": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "order": 25
+                },
+                {
+                    "position": {
+                        "x": 2,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "order": 26
+                },
+                {
+                    "position": {
+                        "x": 3,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "order": 27
+                },
+                {
+                    "position": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "order": 28
+                },
+                {
+                    "position": {
+                        "x": 2,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "order": 29
+                },
+                {
+                    "position": {
+                        "x": 3,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "order": 30
+                },
+                {
+                    "position": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "order": 31
+                },
+                {
+                    "position": {
+                        "x": 2,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "order": 32
+                },
+                {
+                    "position": {
+                        "x": 3,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "order": 33
+                },
+                {
+                    "position": {
+                        "x": 2,
+                        "y": 2,
+                        "z": 2
+                    },
+                    "order": 34
+                }
+            ]
+        }
+    ]
+}

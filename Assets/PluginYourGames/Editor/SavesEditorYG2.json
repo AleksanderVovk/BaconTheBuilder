@@ -1,0 +1,37 @@
+{
+    "ownedGyms": [],
+    "gymStrength": 100,
+    "gymStrengthBig": "100",
+    "firstBuildTutorialDone": true,
+    "victoryEconomyJson": "",
+    "activityChestJson": "{\"progress\":55,\"pending\":2,\"revision\":457,\"pendingBig\":\"2\",\"revisionBig\":\"457\",\"openingsBig\":\"2\"}",
+    "gameSettingsJson": "",
+    "buildingProgressJson": "{\"levels\":[{\"levelId\":\"house\",\"signature\":\"g4KgUpWbAJxakiWjBluV6+izXF1mShiQj8Sme8GY/48=\",\"revision\":\"639286965628299217\",\"builtBlocks\":375,\"elapsedSeconds\":61.55289419018664,\"assisted\":false,\"finished\":false},{\"levelId\":\"fortress\",\"signature\":\"7O6c95EETq87fQxw2KmREnTcwdBysU9FNUSFnoWVC24=\",\"revision\":\"639296650394470177\",\"builtBlocks\":367,\"elapsedSeconds\":24.749828666215764,\"assisted\":false,\"finished\":false},{\"levelId\":\"pyramid\",\"signature\":\"t90+E5x5iTTMDv2ElnTycNkCvZAug9kme19AmfTu8tg=\",\"revision\":\"639296650150974409\",\"builtBlocks\":852,\"elapsedSeconds\":66.9590822677128,\"assisted\":false,\"finished\":false}]}",
+    "stringKeys": [],
+    "stringValues": [],
+    "floatKeys": [],
+    "floatValues": [],
+    "intKeys": [],
+    "intValues": [],
+    "intExample": 5,
+    "strExample": "Hello!",
+    "boolExample": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "idSave": 447,
+    "playerData": {
+        "wallet": {
+            "money": 0,
+            "diamonds": 0,
+            "wins": 0,
+            "spins": 0
+        },
+        "boughtPickaxes": [
+            "pickaxe_01"
+        ],
+        "equippedPickaxeId": "pickaxe_01"
+    }
+}

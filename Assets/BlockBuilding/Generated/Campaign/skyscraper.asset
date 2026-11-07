@@ -1,0 +1,6157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc803052ba45a074f950b5287f9c3cca, type: 3}
+  m_Name: skyscraper
+  m_EditorClassIdentifier: Assembly-CSharp::BuildSiteData
+  level:
+    version: 2
+    blockSize: 1.5
+    pickupPoint: {x: 0, y: 0, z: 5}
+    trainingPoint: {x: 25, y: 0.125, z: 11.5}
+    sites:
+    - id: skyscraper
+      origin: {x: 0, y: -1.45, z: 31}
+      yaw: 0
+      deliveryPoint: {x: 0, y: 0, z: 17}
+      blocks:
+      - position: {x: -3, y: 0, z: -5}
+        order: 0
+        type: 13
+      - position: {x: -4, y: 0, z: -5}
+        order: 1
+        type: 13
+      - position: {x: -5, y: 0, z: -5}
+        order: 2
+        type: 13
+      - position: {x: -5, y: 0, z: -4}
+        order: 3
+        type: 13
+      - position: {x: -5, y: 0, z: -3}
+        order: 4
+        type: 13
+      - position: {x: -5, y: 0, z: -2}
+        order: 5
+        type: 13
+      - position: {x: -5, y: 0, z: -1}
+        order: 6
+        type: 13
+      - position: {x: -5, y: 0, z: 0}
+        order: 7
+        type: 13
+      - position: {x: -5, y: 0, z: 1}
+        order: 8
+        type: 13
+      - position: {x: -5, y: 0, z: 2}
+        order: 9
+        type: 13
+      - position: {x: -5, y: 0, z: 3}
+        order: 10
+        type: 13
+      - position: {x: -5, y: 0, z: 4}
+        order: 11
+        type: 13
+      - position: {x: -5, y: 0, z: 5}
+        order: 12
+        type: 13
+      - position: {x: -4, y: 0, z: 5}
+        order: 13
+        type: 13
+      - position: {x: -4, y: 0, z: 4}
+        order: 14
+        type: 13
+      - position: {x: -4, y: 0, z: 3}
+        order: 15
+        type: 13
+      - position: {x: -4, y: 0, z: 2}
+        order: 16
+        type: 13
+      - position: {x: -4, y: 0, z: 1}
+        order: 17
+        type: 13
+      - position: {x: -4, y: 0, z: 0}
+        order: 18
+        type: 13
+      - position: {x: -4, y: 0, z: -1}
+        order: 19
+        type: 13
+      - position: {x: -4, y: 0, z: -2}
+        order: 20
+        type: 13
+      - position: {x: -4, y: 0, z: -3}
+        order: 21
+        type: 13
+      - position: {x: -4, y: 0, z: -4}
+        order: 22
+        type: 13
+      - position: {x: -3, y: 0, z: -4}
+        order: 23
+        type: 13
+      - position: {x: -3, y: 0, z: -3}
+        order: 24
+        type: 13
+      - position: {x: -3, y: 0, z: -2}
+        order: 25
+        type: 13
+      - position: {x: -3, y: 0, z: -1}
+        order: 26
+        type: 13
+      - position: {x: -3, y: 0, z: 0}
+        order: 27
+        type: 13
+      - position: {x: -3, y: 0, z: 1}
+        order: 28
+        type: 13
+      - position: {x: -3, y: 0, z: 2}
+        order: 29
+        type: 13
+      - position: {x: -3, y: 0, z: 3}
+        order: 30
+        type: 13
+      - position: {x: -3, y: 0, z: 4}
+        order: 31
+        type: 13
+      - position: {x: -3, y: 0, z: 5}
+        order: 32
+        type: 13
+      - position: {x: -2, y: 0, z: 5}
+        order: 33
+        type: 13
+      - position: {x: -2, y: 0, z: 4}
+        order: 34
+        type: 13
+      - position: {x: -2, y: 0, z: 3}
+        order: 35
+        type: 13
+      - position: {x: -2, y: 0, z: 2}
+        order: 36
+        type: 13
+      - position: {x: -2, y: 0, z: 1}
+        order: 37
+        type: 13
+      - position: {x: -2, y: 0, z: 0}
+        order: 38
+        type: 13
+      - position: {x: -2, y: 0, z: -1}
+        order: 39
+        type: 13
+      - position: {x: -2, y: 0, z: -2}
+        order: 40
+        type: 13
+      - position: {x: -2, y: 0, z: -3}
+        order: 41
+        type: 13
+      - position: {x: -2, y: 0, z: -4}
+        order: 42
+        type: 13
+      - position: {x: -2, y: 0, z: -5}
+        order: 43
+        type: 13
+      - position: {x: -1, y: 0, z: -5}
+        order: 44
+        type: 13
+      - position: {x: -1, y: 0, z: -4}
+        order: 45
+        type: 13
+      - position: {x: -1, y: 0, z: -3}
+        order: 46
+        type: 13
+      - position: {x: -1, y: 0, z: -2}
+        order: 47
+        type: 13
+      - position: {x: -1, y: 0, z: -1}
+        order: 48
+        type: 13
+      - position: {x: -1, y: 0, z: 0}
+        order: 49
+        type: 13
+      - position: {x: -1, y: 0, z: 1}
+        order: 50
+        type: 13
+      - position: {x: -1, y: 0, z: 2}
+        order: 51
+        type: 13
+      - position: {x: -1, y: 0, z: 3}
+        order: 52
+        type: 13
+      - position: {x: -1, y: 0, z: 4}
+        order: 53
+        type: 13
+      - position: {x: -1, y: 0, z: 5}
+        order: 54
+        type: 13
+      - position: {x: 0, y: 0, z: 5}
+        order: 55
+        type: 13
+      - position: {x: 0, y: 0, z: 4}
+        order: 56
+        type: 13
+      - position: {x: 0, y: 0, z: 3}
+        order: 57
+        type: 13
+      - position: {x: 0, y: 0, z: 2}
+        order: 58
+        type: 13
+      - position: {x: 0, y: 0, z: 1}
+        order: 59
+        type: 13
+      - position: {x: 0, y: 0, z: 0}
+        order: 60
+        type: 13
+      - position: {x: 0, y: 0, z: -1}
+        order: 61
+        type: 13
+      - position: {x: 0, y: 0, z: -2}
+        order: 62
+        type: 13
+      - position: {x: 0, y: 0, z: -3}
+        order: 63
+        type: 13
+      - position: {x: 0, y: 0, z: -4}
+        order: 64
+        type: 13
+      - position: {x: 0, y: 0, z: -5}
+        order: 65
+        type: 13
+      - position: {x: 1, y: 0, z: -5}
+        order: 66
+        type: 13
+      - position: {x: 1, y: 0, z: -4}
+        order: 67
+        type: 13
+      - position: {x: 1, y: 0, z: -3}
+        order: 68
+        type: 13
+      - position: {x: 1, y: 0, z: -2}
+        order: 69
+        type: 13
+      - position: {x: 1, y: 0, z: -1}
+        order: 70
+        type: 13
+      - position: {x: 1, y: 0, z: 0}
+        order: 71
+        type: 13
+      - position: {x: 1, y: 0, z: 1}
+        order: 72
+        type: 13
+      - position: {x: 1, y: 0, z: 2}
+        order: 73
+        type: 13
+      - position: {x: 1, y: 0, z: 3}
+        order: 74
+        type: 13
+      - position: {x: 1, y: 0, z: 4}
+        order: 75
+        type: 13
+      - position: {x: 1, y: 0, z: 5}
+        order: 76
+        type: 13
+      - position: {x: 2, y: 0, z: 5}
+        order: 77
+        type: 13
+      - position: {x: 2, y: 0, z: 4}
+        order: 78
+        type: 13
+      - position: {x: 2, y: 0, z: 3}
+        order: 79
+        type: 13
+      - position: {x: 2, y: 0, z: 2}
+        order: 80
+        type: 13
+      - position: {x: 2, y: 0, z: 1}
+        order: 81
+        type: 13
+      - position: {x: 2, y: 0, z: 0}
+        order: 82
+        type: 13
+      - position: {x: 2, y: 0, z: -1}
+        order: 83
+        type: 13
+      - position: {x: 2, y: 0, z: -2}
+        order: 84
+        type: 13
+      - position: {x: 2, y: 0, z: -3}
+        order: 85
+        type: 13
+      - position: {x: 2, y: 0, z: -4}
+        order: 86
+        type: 13
+      - position: {x: 2, y: 0, z: -5}
+        order: 87
+        type: 13
+      - position: {x: 3, y: 0, z: -5}
+        order: 88
+        type: 13
+      - position: {x: 3, y: 0, z: -4}
+        order: 89
+        type: 13
+      - position: {x: 3, y: 0, z: -3}
+        order: 90
+        type: 13
+      - position: {x: 3, y: 0, z: -2}
+        order: 91
+        type: 13
+      - position: {x: 3, y: 0, z: -1}
+        order: 92
+        type: 13
+      - position: {x: 3, y: 0, z: 0}
+        order: 93
+        type: 13
+      - position: {x: 3, y: 0, z: 1}
+        order: 94
+        type: 13
+      - position: {x: 3, y: 0, z: 2}
+        order: 95
+        type: 13
+      - position: {x: 3, y: 0, z: 3}
+        order: 96
+        type: 13
+      - position: {x: 3, y: 0, z: 4}
+        order: 97
+        type: 13
+      - position: {x: 3, y: 0, z: 5}
+        order: 98
+        type: 13
+      - position: {x: 4, y: 0, z: 5}
+        order: 99
+        type: 13
+      - position: {x: 4, y: 0, z: 4}
+        order: 100
+        type: 13
+      - position: {x: 4, y: 0, z: 3}
+        order: 101
+        type: 13
+      - position: {x: 4, y: 0, z: 2}
+        order: 102
+        type: 13
+      - position: {x: 4, y: 0, z: 1}
+        order: 103
+        type: 13
+      - position: {x: 4, y: 0, z: 0}
+        order: 104
+        type: 13
+      - position: {x: 4, y: 0, z: -1}
+        order: 105
+        type: 13
+      - position: {x: 4, y: 0, z: -2}
+        order: 106
+        type: 13
+      - position: {x: 4, y: 0, z: -3}
+        order: 107
+        type: 13
+      - position: {x: 4, y: 0, z: -4}
+        order: 108
+        type: 13
+      - position: {x: 4, y: 0, z: -5}
+        order: 109
+        type: 13
+      - position: {x: 5, y: 0, z: -5}
+        order: 110
+        type: 13
+      - position: {x: 5, y: 0, z: -4}
+        order: 111
+        type: 13
+      - position: {x: 5, y: 0, z: -3}
+        order: 112
+        type: 13
+      - position: {x: 5, y: 0, z: -2}
+        order: 113
+        type: 13
+      - position: {x: 5, y: 0, z: -1}
+        order: 114
+        type: 13
+      - position: {x: 5, y: 0, z: 0}
+        order: 115
+        type: 13
+      - position: {x: 5, y: 0, z: 1}
+        order: 116
+        type: 13
+      - position: {x: 5, y: 0, z: 2}
+        order: 117
+        type: 13
+      - position: {x: 5, y: 0, z: 3}
+        order: 118
+        type: 13
+      - position: {x: 5, y: 0, z: 4}
+        order: 119
+        type: 13
+      - position: {x: 5, y: 0, z: 5}
+        order: 120
+        type: 13
+      - position: {x: 5, y: 1, z: 5}
+        order: 121
+        type: 9
+      - position: {x: 4, y: 1, z: 5}
+        order: 122
+        type: 5
+      - position: {x: 3, y: 1, z: 5}
+        order: 123
+        type: 5
+      - position: {x: 2, y: 1, z: 5}
+        order: 124
+        type: 5
+      - position: {x: 1, y: 1, z: 5}
+        order: 125
+        type: 5
+      - position: {x: 0, y: 1, z: 5}
+        order: 126
+        type: 9
+      - position: {x: -1, y: 1, z: 5}
+        order: 127
+        type: 5
+      - position: {x: -2, y: 1, z: 5}
+        order: 128
+        type: 5
+      - position: {x: -3, y: 1, z: 5}
+        order: 129
+        type: 5
+      - position: {x: -4, y: 1, z: 5}
+        order: 130
+        type: 5
+      - position: {x: -5, y: 1, z: 5}
+        order: 131
+        type: 9
+      - position: {x: -5, y: 1, z: 4}
+        order: 132
+        type: 5
+      - position: {x: -5, y: 1, z: 3}
+        order: 133
+        type: 5
+      - position: {x: -5, y: 1, z: 2}
+        order: 134
+        type: 5
+      - position: {x: -5, y: 1, z: 1}
+        order: 135
+        type: 5
+      - position: {x: -5, y: 1, z: 0}
+        order: 136
+        type: 9
+      - position: {x: -5, y: 1, z: -1}
+        order: 137
+        type: 5
+      - position: {x: -5, y: 1, z: -2}
+        order: 138
+        type: 5
+      - position: {x: -5, y: 1, z: -3}
+        order: 139
+        type: 5
+      - position: {x: -5, y: 1, z: -4}
+        order: 140
+        type: 5
+      - position: {x: -5, y: 1, z: -5}
+        order: 141
+        type: 9
+      - position: {x: -4, y: 1, z: -5}
+        order: 142
+        type: 5
+      - position: {x: -3, y: 1, z: -5}
+        order: 143
+        type: 5
+      - position: {x: -2, y: 1, z: -5}
+        order: 144
+        type: 5
+      - position: {x: 2, y: 1, z: -5}
+        order: 145
+        type: 5
+      - position: {x: 3, y: 1, z: -5}
+        order: 146
+        type: 5
+      - position: {x: 4, y: 1, z: -5}
+        order: 147
+        type: 5
+      - position: {x: 5, y: 1, z: -5}
+        order: 148
+        type: 9
+      - position: {x: 5, y: 1, z: -4}
+        order: 149
+        type: 5
+      - position: {x: 5, y: 1, z: -3}
+        order: 150
+        type: 5
+      - position: {x: 5, y: 1, z: -2}
+        order: 151
+        type: 5
+      - position: {x: 5, y: 1, z: -1}
+        order: 152
+        type: 5
+      - position: {x: 5, y: 1, z: 0}
+        order: 153
+        type: 9
+      - position: {x: 5, y: 1, z: 1}
+        order: 154
+        type: 5
+      - position: {x: 5, y: 1, z: 2}
+        order: 155
+        type: 5
+      - position: {x: 5, y: 1, z: 3}
+        order: 156
+        type: 5
+      - position: {x: 5, y: 1, z: 4}
+        order: 157
+        type: 5
+      - position: {x: 5, y: 2, z: 4}
+        order: 158
+        type: 5
+      - position: {x: 5, y: 2, z: 3}
+        order: 159
+        type: 5
+      - position: {x: 5, y: 2, z: 2}
+        order: 160
+        type: 5
+      - position: {x: 5, y: 2, z: 1}
+        order: 161
+        type: 5
+      - position: {x: 5, y: 2, z: 0}
+        order: 162
+        type: 9
+      - position: {x: 5, y: 2, z: -1}
+        order: 163
+        type: 5
+      - position: {x: 5, y: 2, z: -2}
+        order: 164
+        type: 5
+      - position: {x: 5, y: 2, z: -3}
+        order: 165
+        type: 5
+      - position: {x: 5, y: 2, z: -4}
+        order: 166
+        type: 5
+      - position: {x: 5, y: 2, z: -5}
+        order: 167
+        type: 9
+      - position: {x: 4, y: 2, z: -5}
+        order: 168
+        type: 5
+      - position: {x: 3, y: 2, z: -5}
+        order: 169
+        type: 5
+      - position: {x: 2, y: 2, z: -5}
+        order: 170
+        type: 5
+      - position: {x: -2, y: 2, z: -5}
+        order: 171
+        type: 5
+      - position: {x: -3, y: 2, z: -5}
+        order: 172
+        type: 5
+      - position: {x: -4, y: 2, z: -5}
+        order: 173
+        type: 5
+      - position: {x: -5, y: 2, z: -5}
+        order: 174
+        type: 9
+      - position: {x: -5, y: 2, z: -4}
+        order: 175
+        type: 5
+      - position: {x: -5, y: 2, z: -3}
+        order: 176
+        type: 5
+      - position: {x: -5, y: 2, z: -2}
+        order: 177
+        type: 5
+      - position: {x: -5, y: 2, z: -1}
+        order: 178
+        type: 5
+      - position: {x: -5, y: 2, z: 0}
+        order: 179
+        type: 9
+      - position: {x: -5, y: 2, z: 1}
+        order: 180
+        type: 5
+      - position: {x: -5, y: 2, z: 2}
+        order: 181
+        type: 5
+      - position: {x: -5, y: 2, z: 3}
+        order: 182
+        type: 5
+      - position: {x: -5, y: 2, z: 4}
+        order: 183
+        type: 5
+      - position: {x: -5, y: 2, z: 5}
+        order: 184
+        type: 9
+      - position: {x: -4, y: 2, z: 5}
+        order: 185
+        type: 5
+      - position: {x: -3, y: 2, z: 5}
+        order: 186
+        type: 5
+      - position: {x: -2, y: 2, z: 5}
+        order: 187
+        type: 5
+      - position: {x: -1, y: 2, z: 5}
+        order: 188
+        type: 5
+      - position: {x: 0, y: 2, z: 5}
+        order: 189
+        type: 9
+      - position: {x: 1, y: 2, z: 5}
+        order: 190
+        type: 5
+      - position: {x: 2, y: 2, z: 5}
+        order: 191
+        type: 5
+      - position: {x: 3, y: 2, z: 5}
+        order: 192
+        type: 5
+      - position: {x: 4, y: 2, z: 5}
+        order: 193
+        type: 5
+      - position: {x: 5, y: 2, z: 5}
+        order: 194
+        type: 9
+      - position: {x: 5, y: 3, z: 5}
+        order: 195
+        type: 9
+      - position: {x: 4, y: 3, z: 5}
+        order: 196
+        type: 5
+      - position: {x: 3, y: 3, z: 5}
+        order: 197
+        type: 5
+      - position: {x: 2, y: 3, z: 5}
+        order: 198
+        type: 5
+      - position: {x: 1, y: 3, z: 5}
+        order: 199
+        type: 5
+      - position: {x: 0, y: 3, z: 5}
+        order: 200
+        type: 9
+      - position: {x: -1, y: 3, z: 5}
+        order: 201
+        type: 5
+      - position: {x: -2, y: 3, z: 5}
+        order: 202
+        type: 5
+      - position: {x: -3, y: 3, z: 5}
+        order: 203
+        type: 5
+      - position: {x: -4, y: 3, z: 5}
+        order: 204
+        type: 5
+      - position: {x: -5, y: 3, z: 5}
+        order: 205
+        type: 9
+      - position: {x: -5, y: 3, z: 4}
+        order: 206
+        type: 5
+      - position: {x: -5, y: 3, z: 3}
+        order: 207
+        type: 5
+      - position: {x: -5, y: 3, z: 2}
+        order: 208
+        type: 5
+      - position: {x: -5, y: 3, z: 1}
+        order: 209
+        type: 5
+      - position: {x: -5, y: 3, z: 0}
+        order: 210
+        type: 9
+      - position: {x: -5, y: 3, z: -1}
+        order: 211
+        type: 5
+      - position: {x: -5, y: 3, z: -2}
+        order: 212
+        type: 5
+      - position: {x: -5, y: 3, z: -3}
+        order: 213
+        type: 5
+      - position: {x: -5, y: 3, z: -4}
+        order: 214
+        type: 5
+      - position: {x: -5, y: 3, z: -5}
+        order: 215
+        type: 9
+      - position: {x: -4, y: 3, z: -5}
+        order: 216
+        type: 5
+      - position: {x: -3, y: 3, z: -5}
+        order: 217
+        type: 5
+      - position: {x: -2, y: 3, z: -5}
+        order: 218
+        type: 5
+      - position: {x: 2, y: 3, z: -5}
+        order: 219
+        type: 5
+      - position: {x: 3, y: 3, z: -5}
+        order: 220
+        type: 5
+      - position: {x: 4, y: 3, z: -5}
+        order: 221
+        type: 5
+      - position: {x: 5, y: 3, z: -5}
+        order: 222
+        type: 9
+      - position: {x: 5, y: 3, z: -4}
+        order: 223
+        type: 5
+      - position: {x: 5, y: 3, z: -3}
+        order: 224
+        type: 5
+      - position: {x: 5, y: 3, z: -2}
+        order: 225
+        type: 5
+      - position: {x: 5, y: 3, z: -1}
+        order: 226
+        type: 5
+      - position: {x: 5, y: 3, z: 0}
+        order: 227
+        type: 9
+      - position: {x: 5, y: 3, z: 1}
+        order: 228
+        type: 5
+      - position: {x: 5, y: 3, z: 2}
+        order: 229
+        type: 5
+      - position: {x: 5, y: 3, z: 3}
+        order: 230
+        type: 5
+      - position: {x: 5, y: 3, z: 4}
+        order: 231
+        type: 5
+      - position: {x: 5, y: 4, z: 4}
+        order: 232
+        type: 5
+      - position: {x: 5, y: 4, z: 3}
+        order: 233
+        type: 5
+      - position: {x: 5, y: 4, z: 2}
+        order: 234
+        type: 5
+      - position: {x: 5, y: 4, z: 1}
+        order: 235
+        type: 5
+      - position: {x: 5, y: 4, z: 0}
+        order: 236
+        type: 9
+      - position: {x: 5, y: 4, z: -1}
+        order: 237
+        type: 5
+      - position: {x: 5, y: 4, z: -2}
+        order: 238
+        type: 5
+      - position: {x: 5, y: 4, z: -3}
+        order: 239
+        type: 5
+      - position: {x: 5, y: 4, z: -4}
+        order: 240
+        type: 5
+      - position: {x: 5, y: 4, z: -5}
+        order: 241
+        type: 9
+      - position: {x: 4, y: 4, z: -5}
+        order: 242
+        type: 5
+      - position: {x: 3, y: 4, z: -5}
+        order: 243
+        type: 5
+      - position: {x: 2, y: 4, z: -5}
+        order: 244
+        type: 5
+      - position: {x: 1, y: 4, z: -5}
+        order: 245
+        type: 5
+      - position: {x: 0, y: 4, z: -5}
+        order: 246
+        type: 9
+      - position: {x: -1, y: 4, z: -5}
+        order: 247
+        type: 5
+      - position: {x: -2, y: 4, z: -5}
+        order: 248
+        type: 5
+      - position: {x: -3, y: 4, z: -5}
+        order: 249
+        type: 5
+      - position: {x: -4, y: 4, z: -5}
+        order: 250
+        type: 5
+      - position: {x: -5, y: 4, z: -5}
+        order: 251
+        type: 9
+      - position: {x: -5, y: 4, z: -4}
+        order: 252
+        type: 5
+      - position: {x: -5, y: 4, z: -3}
+        order: 253
+        type: 5
+      - position: {x: -5, y: 4, z: -2}
+        order: 254
+        type: 5
+      - position: {x: -5, y: 4, z: -1}
+        order: 255
+        type: 5
+      - position: {x: -5, y: 4, z: 0}
+        order: 256
+        type: 9
+      - position: {x: -5, y: 4, z: 1}
+        order: 257
+        type: 5
+      - position: {x: -5, y: 4, z: 2}
+        order: 258
+        type: 5
+      - position: {x: -5, y: 4, z: 3}
+        order: 259
+        type: 5
+      - position: {x: -5, y: 4, z: 4}
+        order: 260
+        type: 5
+      - position: {x: -5, y: 4, z: 5}
+        order: 261
+        type: 9
+      - position: {x: -4, y: 4, z: 5}
+        order: 262
+        type: 5
+      - position: {x: -3, y: 4, z: 5}
+        order: 263
+        type: 5
+      - position: {x: -2, y: 4, z: 5}
+        order: 264
+        type: 5
+      - position: {x: -1, y: 4, z: 5}
+        order: 265
+        type: 5
+      - position: {x: 0, y: 4, z: 5}
+        order: 266
+        type: 9
+      - position: {x: 1, y: 4, z: 5}
+        order: 267
+        type: 5
+      - position: {x: 2, y: 4, z: 5}
+        order: 268
+        type: 5
+      - position: {x: 3, y: 4, z: 5}
+        order: 269
+        type: 5
+      - position: {x: 4, y: 4, z: 5}
+        order: 270
+        type: 5
+      - position: {x: 5, y: 4, z: 5}
+        order: 271
+        type: 9
+      - position: {x: 5, y: 5, z: 5}
+        order: 272
+        type: 9
+      - position: {x: 4, y: 5, z: 5}
+        order: 273
+        type: 5
+      - position: {x: 3, y: 5, z: 5}
+        order: 274
+        type: 5
+      - position: {x: 2, y: 5, z: 5}
+        order: 275
+        type: 5
+      - position: {x: 1, y: 5, z: 5}
+        order: 276
+        type: 5
+      - position: {x: 0, y: 5, z: 5}
+        order: 277
+        type: 9
+      - position: {x: -1, y: 5, z: 5}
+        order: 278
+        type: 5
+      - position: {x: -2, y: 5, z: 5}
+        order: 279
+        type: 5
+      - position: {x: -3, y: 5, z: 5}
+        order: 280
+        type: 5
+      - position: {x: -4, y: 5, z: 5}
+        order: 281
+        type: 5
+      - position: {x: -5, y: 5, z: 5}
+        order: 282
+        type: 9
+      - position: {x: -5, y: 5, z: 4}
+        order: 283
+        type: 5
+      - position: {x: -5, y: 5, z: 3}
+        order: 284
+        type: 5
+      - position: {x: -5, y: 5, z: 2}
+        order: 285
+        type: 5
+      - position: {x: -5, y: 5, z: 1}
+        order: 286
+        type: 5
+      - position: {x: -5, y: 5, z: 0}
+        order: 287
+        type: 9
+      - position: {x: -5, y: 5, z: -1}
+        order: 288
+        type: 5
+      - position: {x: -5, y: 5, z: -2}
+        order: 289
+        type: 5
+      - position: {x: -5, y: 5, z: -3}
+        order: 290
+        type: 5
+      - position: {x: -5, y: 5, z: -4}
+        order: 291
+        type: 5
+      - position: {x: -5, y: 5, z: -5}
+        order: 292
+        type: 9
+      - position: {x: -4, y: 5, z: -5}
+        order: 293
+        type: 5
+      - position: {x: -3, y: 5, z: -5}
+        order: 294
+        type: 5
+      - position: {x: -2, y: 5, z: -5}
+        order: 295
+        type: 5
+      - position: {x: -1, y: 5, z: -5}
+        order: 296
+        type: 5
+      - position: {x: 0, y: 5, z: -5}
+        order: 297
+        type: 9
+      - position: {x: 1, y: 5, z: -5}
+        order: 298
+        type: 5
+      - position: {x: 2, y: 5, z: -5}
+        order: 299
+        type: 5
+      - position: {x: 3, y: 5, z: -5}
+        order: 300
+        type: 5
+      - position: {x: 4, y: 5, z: -5}
+        order: 301
+        type: 5
+      - position: {x: 5, y: 5, z: -5}
+        order: 302
+        type: 9
+      - position: {x: 5, y: 5, z: -4}
+        order: 303
+        type: 5
+      - position: {x: 5, y: 5, z: -3}
+        order: 304
+        type: 5
+      - position: {x: 5, y: 5, z: -2}
+        order: 305
+        type: 5
+      - position: {x: 5, y: 5, z: -1}
+        order: 306
+        type: 5
+      - position: {x: 5, y: 5, z: 0}
+        order: 307
+        type: 9
+      - position: {x: 5, y: 5, z: 1}
+        order: 308
+        type: 5
+      - position: {x: 5, y: 5, z: 2}
+        order: 309
+        type: 5
+      - position: {x: 5, y: 5, z: 3}
+        order: 310
+        type: 5
+      - position: {x: 5, y: 5, z: 4}
+        order: 311
+        type: 5
+      - position: {x: 5, y: 6, z: 4}
+        order: 312
+        type: 13
+      - position: {x: 5, y: 6, z: 3}
+        order: 313
+        type: 13
+      - position: {x: 5, y: 6, z: 2}
+        order: 314
+        type: 13
+      - position: {x: 5, y: 6, z: 1}
+        order: 315
+        type: 13
+      - position: {x: 5, y: 6, z: 0}
+        order: 316
+        type: 13
+      - position: {x: 5, y: 6, z: -1}
+        order: 317
+        type: 13
+      - position: {x: 5, y: 6, z: -2}
+        order: 318
+        type: 13
+      - position: {x: 5, y: 6, z: -3}
+        order: 319
+        type: 13
+      - position: {x: 5, y: 6, z: -4}
+        order: 320
+        type: 13
+      - position: {x: 5, y: 6, z: -5}
+        order: 321
+        type: 13
+      - position: {x: 4, y: 6, z: -5}
+        order: 322
+        type: 13
+      - position: {x: 4, y: 6, z: -4}
+        order: 323
+        type: 13
+      - position: {x: 4, y: 6, z: -3}
+        order: 324
+        type: 13
+      - position: {x: 4, y: 6, z: -2}
+        order: 325
+        type: 13
+      - position: {x: 4, y: 6, z: -1}
+        order: 326
+        type: 13
+      - position: {x: 4, y: 6, z: 0}
+        order: 327
+        type: 13
+      - position: {x: 4, y: 6, z: 1}
+        order: 328
+        type: 13
+      - position: {x: 4, y: 6, z: 2}
+        order: 329
+        type: 13
+      - position: {x: 4, y: 6, z: 3}
+        order: 330
+        type: 13
+      - position: {x: 4, y: 6, z: 4}
+        order: 331
+        type: 13
+      - position: {x: 5, y: 6, z: 5}
+        order: 332
+        type: 13
+      - position: {x: 4, y: 6, z: 5}
+        order: 333
+        type: 13
+      - position: {x: 3, y: 6, z: 5}
+        order: 334
+        type: 13
+      - position: {x: 3, y: 6, z: 4}
+        order: 335
+        type: 13
+      - position: {x: 3, y: 6, z: 3}
+        order: 336
+        type: 13
+      - position: {x: 3, y: 6, z: 2}
+        order: 337
+        type: 13
+      - position: {x: 3, y: 6, z: 1}
+        order: 338
+        type: 13
+      - position: {x: 3, y: 6, z: 0}
+        order: 339
+        type: 13
+      - position: {x: 3, y: 6, z: -1}
+        order: 340
+        type: 13
+      - position: {x: 3, y: 6, z: -2}
+        order: 341
+        type: 13
+      - position: {x: 3, y: 6, z: -3}
+        order: 342
+        type: 13
+      - position: {x: 3, y: 6, z: -4}
+        order: 343
+        type: 13
+      - position: {x: 3, y: 6, z: -5}
+        order: 344
+        type: 13
+      - position: {x: 2, y: 6, z: -5}
+        order: 345
+        type: 13
+      - position: {x: 2, y: 6, z: -4}
+        order: 346
+        type: 13
+      - position: {x: 2, y: 6, z: -3}
+        order: 347
+        type: 13
+      - position: {x: 2, y: 6, z: -2}
+        order: 348
+        type: 13
+      - position: {x: 2, y: 6, z: -1}
+        order: 349
+        type: 13
+      - position: {x: 2, y: 6, z: 0}
+        order: 350
+        type: 13
+      - position: {x: 2, y: 6, z: 1}
+        order: 351
+        type: 13
+      - position: {x: 2, y: 6, z: 2}
+        order: 352
+        type: 13
+      - position: {x: 2, y: 6, z: 3}
+        order: 353
+        type: 13
+      - position: {x: 2, y: 6, z: 4}
+        order: 354
+        type: 13
+      - position: {x: 2, y: 6, z: 5}
+        order: 355
+        type: 13
+      - position: {x: 1, y: 6, z: 5}
+        order: 356
+        type: 13
+      - position: {x: 1, y: 6, z: 4}
+        order: 357
+        type: 13
+      - position: {x: 1, y: 6, z: 3}
+        order: 358
+        type: 13
+      - position: {x: 1, y: 6, z: 2}
+        order: 359
+        type: 13
+      - position: {x: 1, y: 6, z: 1}
+        order: 360
+        type: 13
+      - position: {x: 1, y: 6, z: 0}
+        order: 361
+        type: 13
+      - position: {x: 1, y: 6, z: -1}
+        order: 362
+        type: 13
+      - position: {x: 1, y: 6, z: -2}
+        order: 363
+        type: 13
+      - position: {x: 1, y: 6, z: -3}
+        order: 364
+        type: 13
+      - position: {x: 1, y: 6, z: -4}
+        order: 365
+        type: 13
+      - position: {x: 1, y: 6, z: -5}
+        order: 366
+        type: 13
+      - position: {x: 0, y: 6, z: -5}
+        order: 367
+        type: 13
+      - position: {x: 0, y: 6, z: -4}
+        order: 368
+        type: 13
+      - position: {x: 0, y: 6, z: -3}
+        order: 369
+        type: 13
+      - position: {x: 0, y: 6, z: -2}
+        order: 370
+        type: 13
+      - position: {x: 0, y: 6, z: -1}
+        order: 371
+        type: 13
+      - position: {x: 0, y: 6, z: 0}
+        order: 372
+        type: 13
+      - position: {x: 0, y: 6, z: 1}
+        order: 373
+        type: 13
+      - position: {x: 0, y: 6, z: 2}
+        order: 374
+        type: 13
+      - position: {x: 0, y: 6, z: 3}
+        order: 375
+        type: 13
+      - position: {x: 0, y: 6, z: 4}
+        order: 376
+        type: 13
+      - position: {x: 0, y: 6, z: 5}
+        order: 377
+        type: 13
+      - position: {x: -1, y: 6, z: 5}
+        order: 378
+        type: 13
+      - position: {x: -1, y: 6, z: 4}
+        order: 379
+        type: 13
+      - position: {x: -1, y: 6, z: 3}
+        order: 380
+        type: 13
+      - position: {x: -1, y: 6, z: 2}
+        order: 381
+        type: 13
+      - position: {x: -1, y: 6, z: 1}
+        order: 382
+        type: 13
+      - position: {x: -1, y: 6, z: 0}
+        order: 383
+        type: 13
+      - position: {x: -1, y: 6, z: -1}
+        order: 384
+        type: 13
+      - position: {x: -1, y: 6, z: -2}
+        order: 385
+        type: 13
+      - position: {x: -1, y: 6, z: -3}
+        order: 386
+        type: 13
+      - position: {x: -1, y: 6, z: -4}
+        order: 387
+        type: 13
+      - position: {x: -1, y: 6, z: -5}
+        order: 388
+        type: 13
+      - position: {x: -2, y: 6, z: -5}
+        order: 389
+        type: 13
+      - position: {x: -2, y: 6, z: -4}
+        order: 390
+        type: 13
+      - position: {x: -2, y: 6, z: -3}
+        order: 391
+        type: 13
+      - position: {x: -2, y: 6, z: -2}
+        order: 392
+        type: 13
+      - position: {x: -2, y: 6, z: -1}
+        order: 393
+        type: 13
+      - position: {x: -2, y: 6, z: 0}
+        order: 394
+        type: 13
+      - position: {x: -2, y: 6, z: 1}
+        order: 395
+        type: 13
+      - position: {x: -2, y: 6, z: 2}
+        order: 396
+        type: 13
+      - position: {x: -2, y: 6, z: 3}
+        order: 397
+        type: 13
+      - position: {x: -2, y: 6, z: 4}
+        order: 398
+        type: 13
+      - position: {x: -2, y: 6, z: 5}
+        order: 399
+        type: 13
+      - position: {x: -3, y: 6, z: 5}
+        order: 400
+        type: 13
+      - position: {x: -3, y: 6, z: 4}
+        order: 401
+        type: 13
+      - position: {x: -3, y: 6, z: 3}
+        order: 402
+        type: 13
+      - position: {x: -3, y: 6, z: 2}
+        order: 403
+        type: 13
+      - position: {x: -3, y: 6, z: 1}
+        order: 404
+        type: 13
+      - position: {x: -3, y: 6, z: 0}
+        order: 405
+        type: 13
+      - position: {x: -3, y: 6, z: -1}
+        order: 406
+        type: 13
+      - position: {x: -3, y: 6, z: -2}
+        order: 407
+        type: 13
+      - position: {x: -3, y: 6, z: -3}
+        order: 408
+        type: 13
+      - position: {x: -3, y: 6, z: -4}
+        order: 409
+        type: 13
+      - position: {x: -3, y: 6, z: -5}
+        order: 410
+        type: 13
+      - position: {x: -4, y: 6, z: -5}
+        order: 411
+        type: 13
+      - position: {x: -4, y: 6, z: -4}
+        order: 412
+        type: 13
+      - position: {x: -4, y: 6, z: -3}
+        order: 413
+        type: 13
+      - position: {x: -4, y: 6, z: -2}
+        order: 414
+        type: 13
+      - position: {x: -4, y: 6, z: -1}
+        order: 415
+        type: 13
+      - position: {x: -4, y: 6, z: 0}
+        order: 416
+        type: 13
+      - position: {x: -4, y: 6, z: 1}
+        order: 417
+        type: 13
+      - position: {x: -4, y: 6, z: 2}
+        order: 418
+        type: 13
+      - position: {x: -4, y: 6, z: 3}
+        order: 419
+        type: 13
+      - position: {x: -4, y: 6, z: 4}
+        order: 420
+        type: 13
+      - position: {x: -4, y: 6, z: 5}
+        order: 421
+        type: 13
+      - position: {x: -5, y: 6, z: 5}
+        order: 422
+        type: 13
+      - position: {x: -5, y: 6, z: 4}
+        order: 423
+        type: 13
+      - position: {x: -5, y: 6, z: 3}
+        order: 424
+        type: 13
+      - position: {x: -5, y: 6, z: 2}
+        order: 425
+        type: 13
+      - position: {x: -5, y: 6, z: 1}
+        order: 426
+        type: 13
+      - position: {x: -5, y: 6, z: 0}
+        order: 427
+        type: 13
+      - position: {x: -5, y: 6, z: -1}
+        order: 428
+        type: 13
+      - position: {x: -5, y: 6, z: -2}
+        order: 429
+        type: 13
+      - position: {x: -5, y: 6, z: -3}
+        order: 430
+        type: 13
+      - position: {x: -5, y: 6, z: -4}
+        order: 431
+        type: 13
+      - position: {x: -5, y: 6, z: -5}
+        order: 432
+        type: 13
+      - position: {x: -5, y: 7, z: -5}
+        order: 433
+        type: 9
+      - position: {x: -5, y: 7, z: -4}
+        order: 434
+        type: 5
+      - position: {x: -5, y: 7, z: -3}
+        order: 435
+        type: 5
+      - position: {x: -5, y: 7, z: -2}
+        order: 436
+        type: 5
+      - position: {x: -5, y: 7, z: -1}
+        order: 437
+        type: 5
+      - position: {x: -5, y: 7, z: 0}
+        order: 438
+        type: 9
+      - position: {x: -5, y: 7, z: 1}
+        order: 439
+        type: 5
+      - position: {x: -5, y: 7, z: 2}
+        order: 440
+        type: 5
+      - position: {x: -5, y: 7, z: 3}
+        order: 441
+        type: 5
+      - position: {x: -5, y: 7, z: 4}
+        order: 442
+        type: 5
+      - position: {x: -5, y: 7, z: 5}
+        order: 443
+        type: 9
+      - position: {x: -4, y: 7, z: 5}
+        order: 444
+        type: 5
+      - position: {x: -3, y: 7, z: 5}
+        order: 445
+        type: 5
+      - position: {x: -2, y: 7, z: 5}
+        order: 446
+        type: 5
+      - position: {x: -1, y: 7, z: 5}
+        order: 447
+        type: 5
+      - position: {x: 0, y: 7, z: 5}
+        order: 448
+        type: 9
+      - position: {x: 1, y: 7, z: 5}
+        order: 449
+        type: 5
+      - position: {x: 2, y: 7, z: 5}
+        order: 450
+        type: 5
+      - position: {x: 3, y: 7, z: 5}
+        order: 451
+        type: 5
+      - position: {x: 4, y: 7, z: 5}
+        order: 452
+        type: 5
+      - position: {x: 5, y: 7, z: 5}
+        order: 453
+        type: 9
+      - position: {x: 5, y: 7, z: 4}
+        order: 454
+        type: 5
+      - position: {x: 5, y: 7, z: 3}
+        order: 455
+        type: 5
+      - position: {x: 5, y: 7, z: 2}
+        order: 456
+        type: 5
+      - position: {x: 5, y: 7, z: 1}
+        order: 457
+        type: 5
+      - position: {x: 5, y: 7, z: 0}
+        order: 458
+        type: 9
+      - position: {x: 5, y: 7, z: -1}
+        order: 459
+        type: 5
+      - position: {x: 5, y: 7, z: -2}
+        order: 460
+        type: 5
+      - position: {x: 5, y: 7, z: -3}
+        order: 461
+        type: 5
+      - position: {x: 5, y: 7, z: -4}
+        order: 462
+        type: 5
+      - position: {x: 5, y: 7, z: -5}
+        order: 463
+        type: 9
+      - position: {x: 4, y: 7, z: -5}
+        order: 464
+        type: 5
+      - position: {x: 3, y: 7, z: -5}
+        order: 465
+        type: 5
+      - position: {x: 2, y: 7, z: -5}
+        order: 466
+        type: 5
+      - position: {x: 1, y: 7, z: -5}
+        order: 467
+        type: 5
+      - position: {x: 0, y: 7, z: -5}
+        order: 468
+        type: 9
+      - position: {x: -1, y: 7, z: -5}
+        order: 469
+        type: 5
+      - position: {x: -2, y: 7, z: -5}
+        order: 470
+        type: 5
+      - position: {x: -3, y: 7, z: -5}
+        order: 471
+        type: 5
+      - position: {x: -4, y: 7, z: -5}
+        order: 472
+        type: 5
+      - position: {x: -4, y: 8, z: -5}
+        order: 473
+        type: 5
+      - position: {x: -5, y: 8, z: -5}
+        order: 474
+        type: 9
+      - position: {x: -5, y: 8, z: -4}
+        order: 475
+        type: 5
+      - position: {x: -5, y: 8, z: -3}
+        order: 476
+        type: 5
+      - position: {x: -5, y: 8, z: -2}
+        order: 477
+        type: 5
+      - position: {x: -5, y: 8, z: -1}
+        order: 478
+        type: 5
+      - position: {x: -5, y: 8, z: 0}
+        order: 479
+        type: 9
+      - position: {x: -5, y: 8, z: 1}
+        order: 480
+        type: 5
+      - position: {x: -5, y: 8, z: 2}
+        order: 481
+        type: 5
+      - position: {x: -5, y: 8, z: 3}
+        order: 482
+        type: 5
+      - position: {x: -5, y: 8, z: 4}
+        order: 483
+        type: 5
+      - position: {x: -5, y: 8, z: 5}
+        order: 484
+        type: 9
+      - position: {x: -4, y: 8, z: 5}
+        order: 485
+        type: 5
+      - position: {x: -3, y: 8, z: 5}
+        order: 486
+        type: 5
+      - position: {x: -2, y: 8, z: 5}
+        order: 487
+        type: 5
+      - position: {x: -1, y: 8, z: 5}
+        order: 488
+        type: 5
+      - position: {x: 0, y: 8, z: 5}
+        order: 489
+        type: 9
+      - position: {x: 1, y: 8, z: 5}
+        order: 490
+        type: 5
+      - position: {x: 2, y: 8, z: 5}
+        order: 491
+        type: 5
+      - position: {x: 3, y: 8, z: 5}
+        order: 492
+        type: 5
+      - position: {x: 4, y: 8, z: 5}
+        order: 493
+        type: 5
+      - position: {x: 5, y: 8, z: 5}
+        order: 494
+        type: 9
+      - position: {x: 5, y: 8, z: 4}
+        order: 495
+        type: 5
+      - position: {x: 5, y: 8, z: 3}
+        order: 496
+        type: 5
+      - position: {x: 5, y: 8, z: 2}
+        order: 497
+        type: 5
+      - position: {x: 5, y: 8, z: 1}
+        order: 498
+        type: 5
+      - position: {x: 5, y: 8, z: 0}
+        order: 499
+        type: 9
+      - position: {x: 5, y: 8, z: -1}
+        order: 500
+        type: 5
+      - position: {x: 5, y: 8, z: -2}
+        order: 501
+        type: 5
+      - position: {x: 5, y: 8, z: -3}
+        order: 502
+        type: 5
+      - position: {x: 5, y: 8, z: -4}
+        order: 503
+        type: 5
+      - position: {x: 5, y: 8, z: -5}
+        order: 504
+        type: 9
+      - position: {x: 4, y: 8, z: -5}
+        order: 505
+        type: 5
+      - position: {x: 3, y: 8, z: -5}
+        order: 506
+        type: 5
+      - position: {x: 2, y: 8, z: -5}
+        order: 507
+        type: 5
+      - position: {x: 1, y: 8, z: -5}
+        order: 508
+        type: 5
+      - position: {x: 0, y: 8, z: -5}
+        order: 509
+        type: 9
+      - position: {x: -1, y: 8, z: -5}
+        order: 510
+        type: 5
+      - position: {x: -2, y: 8, z: -5}
+        order: 511
+        type: 5
+      - position: {x: -3, y: 8, z: -5}
+        order: 512
+        type: 5
+      - position: {x: -3, y: 9, z: -5}
+        order: 513
+        type: 5
+      - position: {x: -4, y: 9, z: -5}
+        order: 514
+        type: 5
+      - position: {x: -5, y: 9, z: -5}
+        order: 515
+        type: 9
+      - position: {x: -5, y: 9, z: -4}
+        order: 516
+        type: 5
+      - position: {x: -5, y: 9, z: -3}
+        order: 517
+        type: 5
+      - position: {x: -5, y: 9, z: -2}
+        order: 518
+        type: 5
+      - position: {x: -5, y: 9, z: -1}
+        order: 519
+        type: 5
+      - position: {x: -5, y: 9, z: 0}
+        order: 520
+        type: 9
+      - position: {x: -5, y: 9, z: 1}
+        order: 521
+        type: 5
+      - position: {x: -5, y: 9, z: 2}
+        order: 522
+        type: 5
+      - position: {x: -5, y: 9, z: 3}
+        order: 523
+        type: 5
+      - position: {x: -5, y: 9, z: 4}
+        order: 524
+        type: 5
+      - position: {x: -5, y: 9, z: 5}
+        order: 525
+        type: 9
+      - position: {x: -4, y: 9, z: 5}
+        order: 526
+        type: 5
+      - position: {x: -3, y: 9, z: 5}
+        order: 527
+        type: 5
+      - position: {x: -2, y: 9, z: 5}
+        order: 528
+        type: 5
+      - position: {x: -1, y: 9, z: 5}
+        order: 529
+        type: 5
+      - position: {x: 0, y: 9, z: 5}
+        order: 530
+        type: 9
+      - position: {x: 1, y: 9, z: 5}
+        order: 531
+        type: 5
+      - position: {x: 2, y: 9, z: 5}
+        order: 532
+        type: 5
+      - position: {x: 3, y: 9, z: 5}
+        order: 533
+        type: 5
+      - position: {x: 4, y: 9, z: 5}
+        order: 534
+        type: 5
+      - position: {x: 5, y: 9, z: 5}
+        order: 535
+        type: 9
+      - position: {x: 5, y: 9, z: 4}
+        order: 536
+        type: 5
+      - position: {x: 5, y: 9, z: 3}
+        order: 537
+        type: 5
+      - position: {x: 5, y: 9, z: 2}
+        order: 538
+        type: 5
+      - position: {x: 5, y: 9, z: 1}
+        order: 539
+        type: 5
+      - position: {x: 5, y: 9, z: 0}
+        order: 540
+        type: 9
+      - position: {x: 5, y: 9, z: -1}
+        order: 541
+        type: 5
+      - position: {x: 5, y: 9, z: -2}
+        order: 542
+        type: 5
+      - position: {x: 5, y: 9, z: -3}
+        order: 543
+        type: 5
+      - position: {x: 5, y: 9, z: -4}
+        order: 544
+        type: 5
+      - position: {x: 5, y: 9, z: -5}
+        order: 545
+        type: 9
+      - position: {x: 4, y: 9, z: -5}
+        order: 546
+        type: 5
+      - position: {x: 3, y: 9, z: -5}
+        order: 547
+        type: 5
+      - position: {x: 2, y: 9, z: -5}
+        order: 548
+        type: 5
+      - position: {x: 1, y: 9, z: -5}
+        order: 549
+        type: 5
+      - position: {x: 0, y: 9, z: -5}
+        order: 550
+        type: 9
+      - position: {x: -1, y: 9, z: -5}
+        order: 551
+        type: 5
+      - position: {x: -2, y: 9, z: -5}
+        order: 552
+        type: 5
+      - position: {x: -2, y: 10, z: -5}
+        order: 553
+        type: 5
+      - position: {x: -3, y: 10, z: -5}
+        order: 554
+        type: 5
+      - position: {x: -4, y: 10, z: -5}
+        order: 555
+        type: 5
+      - position: {x: -5, y: 10, z: -5}
+        order: 556
+        type: 9
+      - position: {x: -5, y: 10, z: -4}
+        order: 557
+        type: 5
+      - position: {x: -5, y: 10, z: -3}
+        order: 558
+        type: 5
+      - position: {x: -5, y: 10, z: -2}
+        order: 559
+        type: 5
+      - position: {x: -5, y: 10, z: -1}
+        order: 560
+        type: 5
+      - position: {x: -5, y: 10, z: 0}
+        order: 561
+        type: 9
+      - position: {x: -5, y: 10, z: 1}
+        order: 562
+        type: 5
+      - position: {x: -5, y: 10, z: 2}
+        order: 563
+        type: 5
+      - position: {x: -5, y: 10, z: 3}
+        order: 564
+        type: 5
+      - position: {x: -5, y: 10, z: 4}
+        order: 565
+        type: 5
+      - position: {x: -5, y: 10, z: 5}
+        order: 566
+        type: 9
+      - position: {x: -4, y: 10, z: 5}
+        order: 567
+        type: 5
+      - position: {x: -3, y: 10, z: 5}
+        order: 568
+        type: 5
+      - position: {x: -2, y: 10, z: 5}
+        order: 569
+        type: 5
+      - position: {x: -1, y: 10, z: 5}
+        order: 570
+        type: 5
+      - position: {x: 0, y: 10, z: 5}
+        order: 571
+        type: 9
+      - position: {x: 1, y: 10, z: 5}
+        order: 572
+        type: 5
+      - position: {x: 2, y: 10, z: 5}
+        order: 573
+        type: 5
+      - position: {x: 3, y: 10, z: 5}
+        order: 574
+        type: 5
+      - position: {x: 4, y: 10, z: 5}
+        order: 575
+        type: 5
+      - position: {x: 5, y: 10, z: 5}
+        order: 576
+        type: 9
+      - position: {x: 5, y: 10, z: 4}
+        order: 577
+        type: 5
+      - position: {x: 5, y: 10, z: 3}
+        order: 578
+        type: 5
+      - position: {x: 5, y: 10, z: 2}
+        order: 579
+        type: 5
+      - position: {x: 5, y: 10, z: 1}
+        order: 580
+        type: 5
+      - position: {x: 5, y: 10, z: 0}
+        order: 581
+        type: 9
+      - position: {x: 5, y: 10, z: -1}
+        order: 582
+        type: 5
+      - position: {x: 5, y: 10, z: -2}
+        order: 583
+        type: 5
+      - position: {x: 5, y: 10, z: -3}
+        order: 584
+        type: 5
+      - position: {x: 5, y: 10, z: -4}
+        order: 585
+        type: 5
+      - position: {x: 5, y: 10, z: -5}
+        order: 586
+        type: 9
+      - position: {x: 4, y: 10, z: -5}
+        order: 587
+        type: 5
+      - position: {x: 3, y: 10, z: -5}
+        order: 588
+        type: 5
+      - position: {x: 2, y: 10, z: -5}
+        order: 589
+        type: 5
+      - position: {x: 1, y: 10, z: -5}
+        order: 590
+        type: 5
+      - position: {x: 0, y: 10, z: -5}
+        order: 591
+        type: 9
+      - position: {x: -1, y: 10, z: -5}
+        order: 592
+        type: 5
+      - position: {x: -1, y: 11, z: -5}
+        order: 593
+        type: 5
+      - position: {x: -2, y: 11, z: -5}
+        order: 594
+        type: 5
+      - position: {x: -3, y: 11, z: -5}
+        order: 595
+        type: 5
+      - position: {x: -4, y: 11, z: -5}
+        order: 596
+        type: 5
+      - position: {x: -5, y: 11, z: -5}
+        order: 597
+        type: 9
+      - position: {x: -5, y: 11, z: -4}
+        order: 598
+        type: 5
+      - position: {x: -5, y: 11, z: -3}
+        order: 599
+        type: 5
+      - position: {x: -5, y: 11, z: -2}
+        order: 600
+        type: 5
+      - position: {x: -5, y: 11, z: -1}
+        order: 601
+        type: 5
+      - position: {x: -5, y: 11, z: 0}
+        order: 602
+        type: 9
+      - position: {x: -5, y: 11, z: 1}
+        order: 603
+        type: 5
+      - position: {x: -5, y: 11, z: 2}
+        order: 604
+        type: 5
+      - position: {x: -5, y: 11, z: 3}
+        order: 605
+        type: 5
+      - position: {x: -5, y: 11, z: 4}
+        order: 606
+        type: 5
+      - position: {x: -5, y: 11, z: 5}
+        order: 607
+        type: 9
+      - position: {x: -4, y: 11, z: 5}
+        order: 608
+        type: 5
+      - position: {x: -3, y: 11, z: 5}
+        order: 609
+        type: 5
+      - position: {x: -2, y: 11, z: 5}
+        order: 610
+        type: 5
+      - position: {x: -1, y: 11, z: 5}
+        order: 611
+        type: 5
+      - position: {x: 0, y: 11, z: 5}
+        order: 612
+        type: 9
+      - position: {x: 1, y: 11, z: 5}
+        order: 613
+        type: 5
+      - position: {x: 2, y: 11, z: 5}
+        order: 614
+        type: 5
+      - position: {x: 3, y: 11, z: 5}
+        order: 615
+        type: 5
+      - position: {x: 4, y: 11, z: 5}
+        order: 616
+        type: 5
+      - position: {x: 5, y: 11, z: 5}
+        order: 617
+        type: 9
+      - position: {x: 5, y: 11, z: 4}
+        order: 618
+        type: 5
+      - position: {x: 5, y: 11, z: 3}
+        order: 619
+        type: 5
+      - position: {x: 5, y: 11, z: 2}
+        order: 620
+        type: 5
+      - position: {x: 5, y: 11, z: 1}
+        order: 621
+        type: 5
+      - position: {x: 5, y: 11, z: 0}
+        order: 622
+        type: 9
+      - position: {x: 5, y: 11, z: -1}
+        order: 623
+        type: 5
+      - position: {x: 5, y: 11, z: -2}
+        order: 624
+        type: 5
+      - position: {x: 5, y: 11, z: -3}
+        order: 625
+        type: 5
+      - position: {x: 5, y: 11, z: -4}
+        order: 626
+        type: 5
+      - position: {x: 5, y: 11, z: -5}
+        order: 627
+        type: 9
+      - position: {x: 4, y: 11, z: -5}
+        order: 628
+        type: 5
+      - position: {x: 3, y: 11, z: -5}
+        order: 629
+        type: 5
+      - position: {x: 2, y: 11, z: -5}
+        order: 630
+        type: 5
+      - position: {x: 1, y: 11, z: -5}
+        order: 631
+        type: 5
+      - position: {x: 0, y: 11, z: -5}
+        order: 632
+        type: 9
+      - position: {x: 0, y: 12, z: -5}
+        order: 633
+        type: 13
+      - position: {x: -1, y: 12, z: -5}
+        order: 634
+        type: 13
+      - position: {x: -2, y: 12, z: -5}
+        order: 635
+        type: 13
+      - position: {x: -3, y: 12, z: -5}
+        order: 636
+        type: 13
+      - position: {x: -4, y: 12, z: -5}
+        order: 637
+        type: 13
+      - position: {x: -5, y: 12, z: -5}
+        order: 638
+        type: 13
+      - position: {x: -5, y: 12, z: -4}
+        order: 639
+        type: 13
+      - position: {x: -4, y: 12, z: -4}
+        order: 640
+        type: 13
+      - position: {x: -3, y: 12, z: -4}
+        order: 641
+        type: 13
+      - position: {x: -2, y: 12, z: -4}
+        order: 642
+        type: 13
+      - position: {x: -1, y: 12, z: -4}
+        order: 643
+        type: 13
+      - position: {x: 0, y: 12, z: -4}
+        order: 644
+        type: 13
+      - position: {x: 1, y: 12, z: -4}
+        order: 645
+        type: 13
+      - position: {x: 1, y: 12, z: -5}
+        order: 646
+        type: 13
+      - position: {x: 2, y: 12, z: -5}
+        order: 647
+        type: 13
+      - position: {x: 3, y: 12, z: -5}
+        order: 648
+        type: 13
+      - position: {x: 4, y: 12, z: -5}
+        order: 649
+        type: 13
+      - position: {x: 5, y: 12, z: -5}
+        order: 650
+        type: 13
+      - position: {x: 5, y: 12, z: -4}
+        order: 651
+        type: 13
+      - position: {x: 4, y: 12, z: -4}
+        order: 652
+        type: 13
+      - position: {x: 3, y: 12, z: -4}
+        order: 653
+        type: 13
+      - position: {x: 2, y: 12, z: -4}
+        order: 654
+        type: 13
+      - position: {x: 2, y: 12, z: -3}
+        order: 655
+        type: 13
+      - position: {x: 1, y: 12, z: -3}
+        order: 656
+        type: 13
+      - position: {x: 0, y: 12, z: -3}
+        order: 657
+        type: 13
+      - position: {x: -1, y: 12, z: -3}
+        order: 658
+        type: 13
+      - position: {x: -2, y: 12, z: -3}
+        order: 659
+        type: 13
+      - position: {x: -3, y: 12, z: -3}
+        order: 660
+        type: 13
+      - position: {x: -4, y: 12, z: -3}
+        order: 661
+        type: 13
+      - position: {x: -5, y: 12, z: -3}
+        order: 662
+        type: 13
+      - position: {x: -5, y: 12, z: -2}
+        order: 663
+        type: 13
+      - position: {x: -4, y: 12, z: -2}
+        order: 664
+        type: 13
+      - position: {x: -3, y: 12, z: -2}
+        order: 665
+        type: 13
+      - position: {x: -2, y: 12, z: -2}
+        order: 666
+        type: 13
+      - position: {x: -1, y: 12, z: -2}
+        order: 667
+        type: 13
+      - position: {x: 0, y: 12, z: -2}
+        order: 668
+        type: 13
+      - position: {x: 1, y: 12, z: -2}
+        order: 669
+        type: 13
+      - position: {x: 2, y: 12, z: -2}
+        order: 670
+        type: 13
+      - position: {x: 3, y: 12, z: -2}
+        order: 671
+        type: 13
+      - position: {x: 3, y: 12, z: -3}
+        order: 672
+        type: 13
+      - position: {x: 4, y: 12, z: -3}
+        order: 673
+        type: 13
+      - position: {x: 5, y: 12, z: -3}
+        order: 674
+        type: 13
+      - position: {x: 5, y: 12, z: -2}
+        order: 675
+        type: 13
+      - position: {x: 4, y: 12, z: -2}
+        order: 676
+        type: 13
+      - position: {x: 4, y: 12, z: -1}
+        order: 677
+        type: 13
+      - position: {x: 3, y: 12, z: -1}
+        order: 678
+        type: 13
+      - position: {x: 2, y: 12, z: -1}
+        order: 679
+        type: 13
+      - position: {x: 1, y: 12, z: -1}
+        order: 680
+        type: 13
+      - position: {x: 0, y: 12, z: -1}
+        order: 681
+        type: 13
+      - position: {x: -1, y: 12, z: -1}
+        order: 682
+        type: 13
+      - position: {x: -2, y: 12, z: -1}
+        order: 683
+        type: 13
+      - position: {x: -3, y: 12, z: -1}
+        order: 684
+        type: 13
+      - position: {x: -4, y: 12, z: -1}
+        order: 685
+        type: 13
+      - position: {x: -5, y: 12, z: -1}
+        order: 686
+        type: 13
+      - position: {x: -5, y: 12, z: 0}
+        order: 687
+        type: 13
+      - position: {x: -4, y: 12, z: 0}
+        order: 688
+        type: 13
+      - position: {x: -3, y: 12, z: 0}
+        order: 689
+        type: 13
+      - position: {x: -2, y: 12, z: 0}
+        order: 690
+        type: 13
+      - position: {x: -1, y: 12, z: 0}
+        order: 691
+        type: 13
+      - position: {x: 0, y: 12, z: 0}
+        order: 692
+        type: 13
+      - position: {x: 1, y: 12, z: 0}
+        order: 693
+        type: 13
+      - position: {x: 2, y: 12, z: 0}
+        order: 694
+        type: 13
+      - position: {x: 3, y: 12, z: 0}
+        order: 695
+        type: 13
+      - position: {x: 4, y: 12, z: 0}
+        order: 696
+        type: 13
+      - position: {x: 5, y: 12, z: -1}
+        order: 697
+        type: 13
+      - position: {x: 5, y: 12, z: 0}
+        order: 698
+        type: 13
+      - position: {x: 5, y: 12, z: 1}
+        order: 699
+        type: 13
+      - position: {x: 4, y: 12, z: 1}
+        order: 700
+        type: 13
+      - position: {x: 3, y: 12, z: 1}
+        order: 701
+        type: 13
+      - position: {x: 2, y: 12, z: 1}
+        order: 702
+        type: 13
+      - position: {x: 1, y: 12, z: 1}
+        order: 703
+        type: 13
+      - position: {x: 0, y: 12, z: 1}
+        order: 704
+        type: 13
+      - position: {x: -1, y: 12, z: 1}
+        order: 705
+        type: 13
+      - position: {x: -2, y: 12, z: 1}
+        order: 706
+        type: 13
+      - position: {x: -3, y: 12, z: 1}
+        order: 707
+        type: 13
+      - position: {x: -4, y: 12, z: 1}
+        order: 708
+        type: 13
+      - position: {x: -5, y: 12, z: 1}
+        order: 709
+        type: 13
+      - position: {x: -5, y: 12, z: 2}
+        order: 710
+        type: 13
+      - position: {x: -4, y: 12, z: 2}
+        order: 711
+        type: 13
+      - position: {x: -3, y: 12, z: 2}
+        order: 712
+        type: 13
+      - position: {x: -2, y: 12, z: 2}
+        order: 713
+        type: 13
+      - position: {x: -1, y: 12, z: 2}
+        order: 714
+        type: 13
+      - position: {x: 0, y: 12, z: 2}
+        order: 715
+        type: 13
+      - position: {x: 1, y: 12, z: 2}
+        order: 716
+        type: 13
+      - position: {x: 2, y: 12, z: 2}
+        order: 717
+        type: 13
+      - position: {x: 3, y: 12, z: 2}
+        order: 718
+        type: 13
+      - position: {x: 4, y: 12, z: 2}
+        order: 719
+        type: 13
+      - position: {x: 5, y: 12, z: 2}
+        order: 720
+        type: 13
+      - position: {x: 5, y: 12, z: 3}
+        order: 721
+        type: 13
+      - position: {x: 4, y: 12, z: 3}
+        order: 722
+        type: 13
+      - position: {x: 3, y: 12, z: 3}
+        order: 723
+        type: 13
+      - position: {x: 2, y: 12, z: 3}
+        order: 724
+        type: 13
+      - position: {x: 1, y: 12, z: 3}
+        order: 725
+        type: 13
+      - position: {x: 0, y: 12, z: 3}
+        order: 726
+        type: 13
+      - position: {x: -1, y: 12, z: 3}
+        order: 727
+        type: 13
+      - position: {x: -2, y: 12, z: 3}
+        order: 728
+        type: 13
+      - position: {x: -3, y: 12, z: 3}
+        order: 729
+        type: 13
+      - position: {x: -4, y: 12, z: 3}
+        order: 730
+        type: 13
+      - position: {x: -5, y: 12, z: 3}
+        order: 731
+        type: 13
+      - position: {x: -5, y: 12, z: 4}
+        order: 732
+        type: 13
+      - position: {x: -4, y: 12, z: 4}
+        order: 733
+        type: 13
+      - position: {x: -3, y: 12, z: 4}
+        order: 734
+        type: 13
+      - position: {x: -2, y: 12, z: 4}
+        order: 735
+        type: 13
+      - position: {x: -1, y: 12, z: 4}
+        order: 736
+        type: 13
+      - position: {x: 0, y: 12, z: 4}
+        order: 737
+        type: 13
+      - position: {x: 1, y: 12, z: 4}
+        order: 738
+        type: 13
+      - position: {x: 2, y: 12, z: 4}
+        order: 739
+        type: 13
+      - position: {x: 3, y: 12, z: 4}
+        order: 740
+        type: 13
+      - position: {x: 4, y: 12, z: 4}
+        order: 741
+        type: 13
+      - position: {x: 5, y: 12, z: 4}
+        order: 742
+        type: 13
+      - position: {x: 5, y: 12, z: 5}
+        order: 743
+        type: 13
+      - position: {x: 4, y: 12, z: 5}
+        order: 744
+        type: 13
+      - position: {x: 3, y: 12, z: 5}
+        order: 745
+        type: 13
+      - position: {x: 2, y: 12, z: 5}
+        order: 746
+        type: 13
+      - position: {x: 1, y: 12, z: 5}
+        order: 747
+        type: 13
+      - position: {x: 0, y: 12, z: 5}
+        order: 748
+        type: 13
+      - position: {x: -1, y: 12, z: 5}
+        order: 749
+        type: 13
+      - position: {x: -2, y: 12, z: 5}
+        order: 750
+        type: 13
+      - position: {x: -3, y: 12, z: 5}
+        order: 751
+        type: 13
+      - position: {x: -4, y: 12, z: 5}
+        order: 752
+        type: 13
+      - position: {x: -5, y: 12, z: 5}
+        order: 753
+        type: 13
+      - position: {x: -5, y: 13, z: 5}
+        order: 754
+        type: 9
+      - position: {x: -5, y: 13, z: 4}
+        order: 755
+        type: 5
+      - position: {x: -5, y: 13, z: 3}
+        order: 756
+        type: 5
+      - position: {x: -5, y: 13, z: 2}
+        order: 757
+        type: 5
+      - position: {x: -5, y: 13, z: 1}
+        order: 758
+        type: 5
+      - position: {x: -5, y: 13, z: 0}
+        order: 759
+        type: 9
+      - position: {x: -5, y: 13, z: -1}
+        order: 760
+        type: 5
+      - position: {x: -5, y: 13, z: -2}
+        order: 761
+        type: 5
+      - position: {x: -5, y: 13, z: -3}
+        order: 762
+        type: 5
+      - position: {x: -5, y: 13, z: -4}
+        order: 763
+        type: 5
+      - position: {x: -5, y: 13, z: -5}
+        order: 764
+        type: 9
+      - position: {x: -4, y: 13, z: -5}
+        order: 765
+        type: 5
+      - position: {x: -3, y: 13, z: -5}
+        order: 766
+        type: 5
+      - position: {x: -2, y: 13, z: -5}
+        order: 767
+        type: 5
+      - position: {x: -1, y: 13, z: -5}
+        order: 768
+        type: 5
+      - position: {x: 0, y: 13, z: -5}
+        order: 769
+        type: 9
+      - position: {x: 1, y: 13, z: -5}
+        order: 770
+        type: 5
+      - position: {x: 2, y: 13, z: -5}
+        order: 771
+        type: 5
+      - position: {x: 3, y: 13, z: -5}
+        order: 772
+        type: 5
+      - position: {x: 4, y: 13, z: -5}
+        order: 773
+        type: 5
+      - position: {x: 5, y: 13, z: -5}
+        order: 774
+        type: 9
+      - position: {x: 5, y: 13, z: -4}
+        order: 775
+        type: 5
+      - position: {x: 5, y: 13, z: -3}
+        order: 776
+        type: 5
+      - position: {x: 5, y: 13, z: -2}
+        order: 777
+        type: 5
+      - position: {x: 5, y: 13, z: -1}
+        order: 778
+        type: 5
+      - position: {x: 5, y: 13, z: 0}
+        order: 779
+        type: 9
+      - position: {x: 5, y: 13, z: 1}
+        order: 780
+        type: 5
+      - position: {x: 5, y: 13, z: 2}
+        order: 781
+        type: 5
+      - position: {x: 5, y: 13, z: 3}
+        order: 782
+        type: 5
+      - position: {x: 5, y: 13, z: 4}
+        order: 783
+        type: 5
+      - position: {x: 5, y: 13, z: 5}
+        order: 784
+        type: 9
+      - position: {x: 4, y: 13, z: 5}
+        order: 785
+        type: 5
+      - position: {x: 3, y: 13, z: 5}
+        order: 786
+        type: 5
+      - position: {x: 2, y: 13, z: 5}
+        order: 787
+        type: 5
+      - position: {x: 1, y: 13, z: 5}
+        order: 788
+        type: 5
+      - position: {x: 0, y: 13, z: 5}
+        order: 789
+        type: 9
+      - position: {x: -1, y: 13, z: 5}
+        order: 790
+        type: 5
+      - position: {x: -2, y: 13, z: 5}
+        order: 791
+        type: 5
+      - position: {x: -3, y: 13, z: 5}
+        order: 792
+        type: 5
+      - position: {x: -4, y: 13, z: 5}
+        order: 793
+        type: 5
+      - position: {x: -4, y: 14, z: 5}
+        order: 794
+        type: 5
+      - position: {x: -5, y: 14, z: 5}
+        order: 795
+        type: 9
+      - position: {x: -5, y: 14, z: 4}
+        order: 796
+        type: 5
+      - position: {x: -5, y: 14, z: 3}
+        order: 797
+        type: 5
+      - position: {x: -5, y: 14, z: 2}
+        order: 798
+        type: 5
+      - position: {x: -5, y: 14, z: 1}
+        order: 799
+        type: 5
+      - position: {x: -5, y: 14, z: 0}
+        order: 800
+        type: 9
+      - position: {x: -5, y: 14, z: -1}
+        order: 801
+        type: 5
+      - position: {x: -5, y: 14, z: -2}
+        order: 802
+        type: 5
+      - position: {x: -5, y: 14, z: -3}
+        order: 803
+        type: 5
+      - position: {x: -5, y: 14, z: -4}
+        order: 804
+        type: 5
+      - position: {x: -5, y: 14, z: -5}
+        order: 805
+        type: 9
+      - position: {x: -4, y: 14, z: -5}
+        order: 806
+        type: 5
+      - position: {x: -3, y: 14, z: -5}
+        order: 807
+        type: 5
+      - position: {x: -2, y: 14, z: -5}
+        order: 808
+        type: 5
+      - position: {x: -1, y: 14, z: -5}
+        order: 809
+        type: 5
+      - position: {x: 0, y: 14, z: -5}
+        order: 810
+        type: 9
+      - position: {x: 1, y: 14, z: -5}
+        order: 811
+        type: 5
+      - position: {x: 2, y: 14, z: -5}
+        order: 812
+        type: 5
+      - position: {x: 3, y: 14, z: -5}
+        order: 813
+        type: 5
+      - position: {x: 4, y: 14, z: -5}
+        order: 814
+        type: 5
+      - position: {x: 5, y: 14, z: -5}
+        order: 815
+        type: 9
+      - position: {x: 5, y: 14, z: -4}
+        order: 816
+        type: 5
+      - position: {x: 5, y: 14, z: -3}
+        order: 817
+        type: 5
+      - position: {x: 5, y: 14, z: -2}
+        order: 818
+        type: 5
+      - position: {x: 5, y: 14, z: -1}
+        order: 819
+        type: 5
+      - position: {x: 5, y: 14, z: 0}
+        order: 820
+        type: 9
+      - position: {x: 5, y: 14, z: 1}
+        order: 821
+        type: 5
+      - position: {x: 5, y: 14, z: 2}
+        order: 822
+        type: 5
+      - position: {x: 5, y: 14, z: 3}
+        order: 823
+        type: 5
+      - position: {x: 5, y: 14, z: 4}
+        order: 824
+        type: 5
+      - position: {x: 5, y: 14, z: 5}
+        order: 825
+        type: 9
+      - position: {x: 4, y: 14, z: 5}
+        order: 826
+        type: 5
+      - position: {x: 3, y: 14, z: 5}
+        order: 827
+        type: 5
+      - position: {x: 2, y: 14, z: 5}
+        order: 828
+        type: 5
+      - position: {x: 1, y: 14, z: 5}
+        order: 829
+        type: 5
+      - position: {x: 0, y: 14, z: 5}
+        order: 830
+        type: 9
+      - position: {x: -1, y: 14, z: 5}
+        order: 831
+        type: 5
+      - position: {x: -2, y: 14, z: 5}
+        order: 832
+        type: 5
+      - position: {x: -3, y: 14, z: 5}
+        order: 833
+        type: 5
+      - position: {x: -3, y: 15, z: 5}
+        order: 834
+        type: 5
+      - position: {x: -4, y: 15, z: 5}
+        order: 835
+        type: 5
+      - position: {x: -5, y: 15, z: 5}
+        order: 836
+        type: 9
+      - position: {x: -5, y: 15, z: 4}
+        order: 837
+        type: 5
+      - position: {x: -5, y: 15, z: 3}
+        order: 838
+        type: 5
+      - position: {x: -5, y: 15, z: 2}
+        order: 839
+        type: 5
+      - position: {x: -5, y: 15, z: 1}
+        order: 840
+        type: 5
+      - position: {x: -5, y: 15, z: 0}
+        order: 841
+        type: 9
+      - position: {x: -5, y: 15, z: -1}
+        order: 842
+        type: 5
+      - position: {x: -5, y: 15, z: -2}
+        order: 843
+        type: 5
+      - position: {x: -5, y: 15, z: -3}
+        order: 844
+        type: 5
+      - position: {x: -5, y: 15, z: -4}
+        order: 845
+        type: 5
+      - position: {x: -5, y: 15, z: -5}
+        order: 846
+        type: 9
+      - position: {x: -4, y: 15, z: -5}
+        order: 847
+        type: 5
+      - position: {x: -3, y: 15, z: -5}
+        order: 848
+        type: 5
+      - position: {x: -2, y: 15, z: -5}
+        order: 849
+        type: 5
+      - position: {x: -1, y: 15, z: -5}
+        order: 850
+        type: 5
+      - position: {x: 0, y: 15, z: -5}
+        order: 851
+        type: 9
+      - position: {x: 1, y: 15, z: -5}
+        order: 852
+        type: 5
+      - position: {x: 2, y: 15, z: -5}
+        order: 853
+        type: 5
+      - position: {x: 3, y: 15, z: -5}
+        order: 854
+        type: 5
+      - position: {x: 4, y: 15, z: -5}
+        order: 855
+        type: 5
+      - position: {x: 5, y: 15, z: -5}
+        order: 856
+        type: 9
+      - position: {x: 5, y: 15, z: -4}
+        order: 857
+        type: 5
+      - position: {x: 5, y: 15, z: -3}
+        order: 858
+        type: 5
+      - position: {x: 5, y: 15, z: -2}
+        order: 859
+        type: 5
+      - position: {x: 5, y: 15, z: -1}
+        order: 860
+        type: 5
+      - position: {x: 5, y: 15, z: 0}
+        order: 861
+        type: 9
+      - position: {x: 5, y: 15, z: 1}
+        order: 862
+        type: 5
+      - position: {x: 5, y: 15, z: 2}
+        order: 863
+        type: 5
+      - position: {x: 5, y: 15, z: 3}
+        order: 864
+        type: 5
+      - position: {x: 5, y: 15, z: 4}
+        order: 865
+        type: 5
+      - position: {x: 5, y: 15, z: 5}
+        order: 866
+        type: 9
+      - position: {x: 4, y: 15, z: 5}
+        order: 867
+        type: 5
+      - position: {x: 3, y: 15, z: 5}
+        order: 868
+        type: 5
+      - position: {x: 2, y: 15, z: 5}
+        order: 869
+        type: 5
+      - position: {x: 1, y: 15, z: 5}
+        order: 870
+        type: 5
+      - position: {x: 0, y: 15, z: 5}
+        order: 871
+        type: 9
+      - position: {x: -1, y: 15, z: 5}
+        order: 872
+        type: 5
+      - position: {x: -2, y: 15, z: 5}
+        order: 873
+        type: 5
+      - position: {x: -2, y: 16, z: 5}
+        order: 874
+        type: 5
+      - position: {x: -3, y: 16, z: 5}
+        order: 875
+        type: 5
+      - position: {x: -4, y: 16, z: 5}
+        order: 876
+        type: 5
+      - position: {x: -5, y: 16, z: 5}
+        order: 877
+        type: 9
+      - position: {x: -5, y: 16, z: 4}
+        order: 878
+        type: 5
+      - position: {x: -5, y: 16, z: 3}
+        order: 879
+        type: 5
+      - position: {x: -5, y: 16, z: 2}
+        order: 880
+        type: 5
+      - position: {x: -5, y: 16, z: 1}
+        order: 881
+        type: 5
+      - position: {x: -5, y: 16, z: 0}
+        order: 882
+        type: 9
+      - position: {x: -5, y: 16, z: -1}
+        order: 883
+        type: 5
+      - position: {x: -5, y: 16, z: -2}
+        order: 884
+        type: 5
+      - position: {x: -5, y: 16, z: -3}
+        order: 885
+        type: 5
+      - position: {x: -5, y: 16, z: -4}
+        order: 886
+        type: 5
+      - position: {x: -5, y: 16, z: -5}
+        order: 887
+        type: 9
+      - position: {x: -4, y: 16, z: -5}
+        order: 888
+        type: 5
+      - position: {x: -3, y: 16, z: -5}
+        order: 889
+        type: 5
+      - position: {x: -2, y: 16, z: -5}
+        order: 890
+        type: 5
+      - position: {x: -1, y: 16, z: -5}
+        order: 891
+        type: 5
+      - position: {x: 0, y: 16, z: -5}
+        order: 892
+        type: 9
+      - position: {x: 1, y: 16, z: -5}
+        order: 893
+        type: 5
+      - position: {x: 2, y: 16, z: -5}
+        order: 894
+        type: 5
+      - position: {x: 3, y: 16, z: -5}
+        order: 895
+        type: 5
+      - position: {x: 4, y: 16, z: -5}
+        order: 896
+        type: 5
+      - position: {x: 5, y: 16, z: -5}
+        order: 897
+        type: 9
+      - position: {x: 5, y: 16, z: -4}
+        order: 898
+        type: 5
+      - position: {x: 5, y: 16, z: -3}
+        order: 899
+        type: 5
+      - position: {x: 5, y: 16, z: -2}
+        order: 900
+        type: 5
+      - position: {x: 5, y: 16, z: -1}
+        order: 901
+        type: 5
+      - position: {x: 5, y: 16, z: 0}
+        order: 902
+        type: 9
+      - position: {x: 5, y: 16, z: 1}
+        order: 903
+        type: 5
+      - position: {x: 5, y: 16, z: 2}
+        order: 904
+        type: 5
+      - position: {x: 5, y: 16, z: 3}
+        order: 905
+        type: 5
+      - position: {x: 5, y: 16, z: 4}
+        order: 906
+        type: 5
+      - position: {x: 5, y: 16, z: 5}
+        order: 907
+        type: 9
+      - position: {x: 4, y: 16, z: 5}
+        order: 908
+        type: 5
+      - position: {x: 3, y: 16, z: 5}
+        order: 909
+        type: 5
+      - position: {x: 2, y: 16, z: 5}
+        order: 910
+        type: 5
+      - position: {x: 1, y: 16, z: 5}
+        order: 911
+        type: 5
+      - position: {x: 0, y: 16, z: 5}
+        order: 912
+        type: 9
+      - position: {x: -1, y: 16, z: 5}
+        order: 913
+        type: 5
+      - position: {x: -1, y: 17, z: 5}
+        order: 914
+        type: 5
+      - position: {x: -2, y: 17, z: 5}
+        order: 915
+        type: 5
+      - position: {x: -3, y: 17, z: 5}
+        order: 916
+        type: 5
+      - position: {x: -4, y: 17, z: 5}
+        order: 917
+        type: 5
+      - position: {x: -5, y: 17, z: 5}
+        order: 918
+        type: 9
+      - position: {x: -5, y: 17, z: 4}
+        order: 919
+        type: 5
+      - position: {x: -5, y: 17, z: 3}
+        order: 920
+        type: 5
+      - position: {x: -5, y: 17, z: 2}
+        order: 921
+        type: 5
+      - position: {x: -5, y: 17, z: 1}
+        order: 922
+        type: 5
+      - position: {x: -5, y: 17, z: 0}
+        order: 923
+        type: 9
+      - position: {x: -5, y: 17, z: -1}
+        order: 924
+        type: 5
+      - position: {x: -5, y: 17, z: -2}
+        order: 925
+        type: 5
+      - position: {x: -5, y: 17, z: -3}
+        order: 926
+        type: 5
+      - position: {x: -5, y: 17, z: -4}
+        order: 927
+        type: 5
+      - position: {x: -5, y: 17, z: -5}
+        order: 928
+        type: 9
+      - position: {x: -4, y: 17, z: -5}
+        order: 929
+        type: 5
+      - position: {x: -3, y: 17, z: -5}
+        order: 930
+        type: 5
+      - position: {x: -2, y: 17, z: -5}
+        order: 931
+        type: 5
+      - position: {x: -1, y: 17, z: -5}
+        order: 932
+        type: 5
+      - position: {x: 0, y: 17, z: -5}
+        order: 933
+        type: 9
+      - position: {x: 1, y: 17, z: -5}
+        order: 934
+        type: 5
+      - position: {x: 2, y: 17, z: -5}
+        order: 935
+        type: 5
+      - position: {x: 3, y: 17, z: -5}
+        order: 936
+        type: 5
+      - position: {x: 4, y: 17, z: -5}
+        order: 937
+        type: 5
+      - position: {x: 5, y: 17, z: -5}
+        order: 938
+        type: 9
+      - position: {x: 5, y: 17, z: -4}
+        order: 939
+        type: 5
+      - position: {x: 5, y: 17, z: -3}
+        order: 940
+        type: 5
+      - position: {x: 5, y: 17, z: -2}
+        order: 941
+        type: 5
+      - position: {x: 5, y: 17, z: -1}
+        order: 942
+        type: 5
+      - position: {x: 5, y: 17, z: 0}
+        order: 943
+        type: 9
+      - position: {x: 5, y: 17, z: 1}
+        order: 944
+        type: 5
+      - position: {x: 5, y: 17, z: 2}
+        order: 945
+        type: 5
+      - position: {x: 5, y: 17, z: 3}
+        order: 946
+        type: 5
+      - position: {x: 5, y: 17, z: 4}
+        order: 947
+        type: 5
+      - position: {x: 5, y: 17, z: 5}
+        order: 948
+        type: 9
+      - position: {x: 4, y: 17, z: 5}
+        order: 949
+        type: 5
+      - position: {x: 3, y: 17, z: 5}
+        order: 950
+        type: 5
+      - position: {x: 2, y: 17, z: 5}
+        order: 951
+        type: 5
+      - position: {x: 1, y: 17, z: 5}
+        order: 952
+        type: 5
+      - position: {x: 0, y: 17, z: 5}
+        order: 953
+        type: 9
+      - position: {x: 0, y: 18, z: 5}
+        order: 954
+        type: 13
+      - position: {x: -1, y: 18, z: 5}
+        order: 955
+        type: 13
+      - position: {x: -2, y: 18, z: 5}
+        order: 956
+        type: 13
+      - position: {x: -3, y: 18, z: 5}
+        order: 957
+        type: 13
+      - position: {x: -4, y: 18, z: 5}
+        order: 958
+        type: 13
+      - position: {x: -5, y: 18, z: 5}
+        order: 959
+        type: 13
+      - position: {x: -5, y: 18, z: 4}
+        order: 960
+        type: 13
+      - position: {x: -5, y: 18, z: 3}
+        order: 961
+        type: 13
+      - position: {x: -5, y: 18, z: 2}
+        order: 962
+        type: 13
+      - position: {x: -5, y: 18, z: 1}
+        order: 963
+        type: 13
+      - position: {x: -5, y: 18, z: 0}
+        order: 964
+        type: 13
+      - position: {x: -5, y: 18, z: -1}
+        order: 965
+        type: 13
+      - position: {x: -5, y: 18, z: -2}
+        order: 966
+        type: 13
+      - position: {x: -5, y: 18, z: -3}
+        order: 967
+        type: 13
+      - position: {x: -5, y: 18, z: -4}
+        order: 968
+        type: 13
+      - position: {x: -5, y: 18, z: -5}
+        order: 969
+        type: 13
+      - position: {x: -4, y: 18, z: -5}
+        order: 970
+        type: 13
+      - position: {x: -4, y: 18, z: -4}
+        order: 971
+        type: 13
+      - position: {x: -4, y: 18, z: -3}
+        order: 972
+        type: 13
+      - position: {x: -4, y: 18, z: -2}
+        order: 973
+        type: 13
+      - position: {x: -4, y: 18, z: -1}
+        order: 974
+        type: 13
+      - position: {x: -4, y: 18, z: 0}
+        order: 975
+        type: 13
+      - position: {x: -4, y: 18, z: 1}
+        order: 976
+        type: 13
+      - position: {x: -4, y: 18, z: 2}
+        order: 977
+        type: 13
+      - position: {x: -4, y: 18, z: 3}
+        order: 978
+        type: 13
+      - position: {x: -4, y: 18, z: 4}
+        order: 979
+        type: 13
+      - position: {x: -3, y: 18, z: 4}
+        order: 980
+        type: 13
+      - position: {x: -3, y: 18, z: 3}
+        order: 981
+        type: 13
+      - position: {x: -3, y: 18, z: 2}
+        order: 982
+        type: 13
+      - position: {x: -3, y: 18, z: 1}
+        order: 983
+        type: 13
+      - position: {x: -3, y: 18, z: 0}
+        order: 984
+        type: 13
+      - position: {x: -3, y: 18, z: -1}
+        order: 985
+        type: 13
+      - position: {x: -3, y: 18, z: -2}
+        order: 986
+        type: 13
+      - position: {x: -3, y: 18, z: -3}
+        order: 987
+        type: 13
+      - position: {x: -3, y: 18, z: -4}
+        order: 988
+        type: 13
+      - position: {x: -3, y: 18, z: -5}
+        order: 989
+        type: 13
+      - position: {x: -2, y: 18, z: -5}
+        order: 990
+        type: 13
+      - position: {x: -2, y: 18, z: -4}
+        order: 991
+        type: 13
+      - position: {x: -2, y: 18, z: -3}
+        order: 992
+        type: 13
+      - position: {x: -2, y: 18, z: -2}
+        order: 993
+        type: 13
+      - position: {x: -2, y: 18, z: -1}
+        order: 994
+        type: 13
+      - position: {x: -2, y: 18, z: 0}
+        order: 995
+        type: 13
+      - position: {x: -2, y: 18, z: 1}
+        order: 996
+        type: 13
+      - position: {x: -2, y: 18, z: 2}
+        order: 997
+        type: 13
+      - position: {x: -2, y: 18, z: 3}
+        order: 998
+        type: 13
+      - position: {x: -2, y: 18, z: 4}
+        order: 999
+        type: 13
+      - position: {x: -1, y: 18, z: 4}
+        order: 1000
+        type: 13
+      - position: {x: -1, y: 18, z: 3}
+        order: 1001
+        type: 13
+      - position: {x: -1, y: 18, z: 2}
+        order: 1002
+        type: 13
+      - position: {x: -1, y: 18, z: 1}
+        order: 1003
+        type: 13
+      - position: {x: -1, y: 18, z: 0}
+        order: 1004
+        type: 13
+      - position: {x: -1, y: 18, z: -1}
+        order: 1005
+        type: 13
+      - position: {x: -1, y: 18, z: -2}
+        order: 1006
+        type: 13
+      - position: {x: -1, y: 18, z: -3}
+        order: 1007
+        type: 13
+      - position: {x: -1, y: 18, z: -4}
+        order: 1008
+        type: 13
+      - position: {x: -1, y: 18, z: -5}
+        order: 1009
+        type: 13
+      - position: {x: 0, y: 18, z: -5}
+        order: 1010
+        type: 13
+      - position: {x: 0, y: 18, z: -4}
+        order: 1011
+        type: 13
+      - position: {x: 0, y: 18, z: -3}
+        order: 1012
+        type: 13
+      - position: {x: 0, y: 18, z: -2}
+        order: 1013
+        type: 13
+      - position: {x: 0, y: 18, z: -1}
+        order: 1014
+        type: 13
+      - position: {x: 0, y: 18, z: 0}
+        order: 1015
+        type: 13
+      - position: {x: 0, y: 18, z: 1}
+        order: 1016
+        type: 13
+      - position: {x: 0, y: 18, z: 2}
+        order: 1017
+        type: 13
+      - position: {x: 0, y: 18, z: 3}
+        order: 1018
+        type: 13
+      - position: {x: 0, y: 18, z: 4}
+        order: 1019
+        type: 13
+      - position: {x: 1, y: 18, z: 4}
+        order: 1020
+        type: 13
+      - position: {x: 1, y: 18, z: 3}
+        order: 1021
+        type: 13
+      - position: {x: 1, y: 18, z: 2}
+        order: 1022
+        type: 13
+      - position: {x: 1, y: 18, z: 1}
+        order: 1023
+        type: 13
+      - position: {x: 1, y: 18, z: 0}
+        order: 1024
+        type: 13
+      - position: {x: 1, y: 18, z: -1}
+        order: 1025
+        type: 13
+      - position: {x: 1, y: 18, z: -2}
+        order: 1026
+        type: 13
+      - position: {x: 1, y: 18, z: -3}
+        order: 1027
+        type: 13
+      - position: {x: 1, y: 18, z: -4}
+        order: 1028
+        type: 13
+      - position: {x: 1, y: 18, z: -5}
+        order: 1029
+        type: 13
+      - position: {x: 2, y: 18, z: -5}
+        order: 1030
+        type: 13
+      - position: {x: 2, y: 18, z: -4}
+        order: 1031
+        type: 13
+      - position: {x: 2, y: 18, z: -3}
+        order: 1032
+        type: 13
+      - position: {x: 2, y: 18, z: -2}
+        order: 1033
+        type: 13
+      - position: {x: 2, y: 18, z: -1}
+        order: 1034
+        type: 13
+      - position: {x: 2, y: 18, z: 0}
+        order: 1035
+        type: 13
+      - position: {x: 2, y: 18, z: 1}
+        order: 1036
+        type: 13
+      - position: {x: 2, y: 18, z: 2}
+        order: 1037
+        type: 13
+      - position: {x: 2, y: 18, z: 3}
+        order: 1038
+        type: 13
+      - position: {x: 2, y: 18, z: 4}
+        order: 1039
+        type: 13
+      - position: {x: 1, y: 18, z: 5}
+        order: 1040
+        type: 13
+      - position: {x: 2, y: 18, z: 5}
+        order: 1041
+        type: 13
+      - position: {x: 3, y: 18, z: 5}
+        order: 1042
+        type: 13
+      - position: {x: 3, y: 18, z: 4}
+        order: 1043
+        type: 13
+      - position: {x: 3, y: 18, z: 3}
+        order: 1044
+        type: 13
+      - position: {x: 3, y: 18, z: 2}
+        order: 1045
+        type: 13
+      - position: {x: 3, y: 18, z: 1}
+        order: 1046
+        type: 13
+      - position: {x: 3, y: 18, z: 0}
+        order: 1047
+        type: 13
+      - position: {x: 3, y: 18, z: -1}
+        order: 1048
+        type: 13
+      - position: {x: 3, y: 18, z: -2}
+        order: 1049
+        type: 13
+      - position: {x: 3, y: 18, z: -3}
+        order: 1050
+        type: 13
+      - position: {x: 3, y: 18, z: -4}
+        order: 1051
+        type: 13
+      - position: {x: 3, y: 18, z: -5}
+        order: 1052
+        type: 13
+      - position: {x: 4, y: 18, z: -5}
+        order: 1053
+        type: 13
+      - position: {x: 4, y: 18, z: -4}
+        order: 1054
+        type: 13
+      - position: {x: 4, y: 18, z: -3}
+        order: 1055
+        type: 13
+      - position: {x: 4, y: 18, z: -2}
+        order: 1056
+        type: 13
+      - position: {x: 4, y: 18, z: -1}
+        order: 1057
+        type: 13
+      - position: {x: 4, y: 18, z: 0}
+        order: 1058
+        type: 13
+      - position: {x: 4, y: 18, z: 1}
+        order: 1059
+        type: 13
+      - position: {x: 4, y: 18, z: 2}
+        order: 1060
+        type: 13
+      - position: {x: 4, y: 18, z: 3}
+        order: 1061
+        type: 13
+      - position: {x: 4, y: 18, z: 4}
+        order: 1062
+        type: 13
+      - position: {x: 4, y: 18, z: 5}
+        order: 1063
+        type: 13
+      - position: {x: 5, y: 18, z: 5}
+        order: 1064
+        type: 13
+      - position: {x: 5, y: 18, z: 4}
+        order: 1065
+        type: 13
+      - position: {x: 5, y: 18, z: 3}
+        order: 1066
+        type: 13
+      - position: {x: 5, y: 18, z: 2}
+        order: 1067
+        type: 13
+      - position: {x: 5, y: 18, z: 1}
+        order: 1068
+        type: 13
+      - position: {x: 5, y: 18, z: 0}
+        order: 1069
+        type: 13
+      - position: {x: 5, y: 18, z: -1}
+        order: 1070
+        type: 13
+      - position: {x: 5, y: 18, z: -2}
+        order: 1071
+        type: 13
+      - position: {x: 5, y: 18, z: -3}
+        order: 1072
+        type: 13
+      - position: {x: 5, y: 18, z: -4}
+        order: 1073
+        type: 13
+      - position: {x: 5, y: 18, z: -5}
+        order: 1074
+        type: 13
+      - position: {x: 5, y: 19, z: -5}
+        order: 1075
+        type: 9
+      - position: {x: 4, y: 19, z: -5}
+        order: 1076
+        type: 5
+      - position: {x: 3, y: 19, z: -5}
+        order: 1077
+        type: 5
+      - position: {x: 2, y: 19, z: -5}
+        order: 1078
+        type: 5
+      - position: {x: 1, y: 19, z: -5}
+        order: 1079
+        type: 5
+      - position: {x: 0, y: 19, z: -5}
+        order: 1080
+        type: 9
+      - position: {x: -1, y: 19, z: -5}
+        order: 1081
+        type: 5
+      - position: {x: -2, y: 19, z: -5}
+        order: 1082
+        type: 5
+      - position: {x: -3, y: 19, z: -5}
+        order: 1083
+        type: 5
+      - position: {x: -4, y: 19, z: -5}
+        order: 1084
+        type: 5
+      - position: {x: -5, y: 19, z: -5}
+        order: 1085
+        type: 9
+      - position: {x: -5, y: 19, z: -4}
+        order: 1086
+        type: 5
+      - position: {x: -5, y: 19, z: -3}
+        order: 1087
+        type: 5
+      - position: {x: -5, y: 19, z: -2}
+        order: 1088
+        type: 5
+      - position: {x: -5, y: 19, z: -1}
+        order: 1089
+        type: 5
+      - position: {x: -5, y: 19, z: 0}
+        order: 1090
+        type: 9
+      - position: {x: -5, y: 19, z: 1}
+        order: 1091
+        type: 5
+      - position: {x: -5, y: 19, z: 2}
+        order: 1092
+        type: 5
+      - position: {x: -5, y: 19, z: 3}
+        order: 1093
+        type: 5
+      - position: {x: -5, y: 19, z: 4}
+        order: 1094
+        type: 5
+      - position: {x: -5, y: 19, z: 5}
+        order: 1095
+        type: 9
+      - position: {x: -4, y: 19, z: 5}
+        order: 1096
+        type: 5
+      - position: {x: -3, y: 19, z: 5}
+        order: 1097
+        type: 5
+      - position: {x: -2, y: 19, z: 5}
+        order: 1098
+        type: 5
+      - position: {x: -1, y: 19, z: 5}
+        order: 1099
+        type: 5
+      - position: {x: 0, y: 19, z: 5}
+        order: 1100
+        type: 9
+      - position: {x: 1, y: 19, z: 5}
+        order: 1101
+        type: 5
+      - position: {x: 2, y: 19, z: 5}
+        order: 1102
+        type: 5
+      - position: {x: 3, y: 19, z: 5}
+        order: 1103
+        type: 5
+      - position: {x: 4, y: 19, z: 5}
+        order: 1104
+        type: 5
+      - position: {x: 5, y: 19, z: 5}
+        order: 1105
+        type: 9
+      - position: {x: 5, y: 19, z: 4}
+        order: 1106
+        type: 5
+      - position: {x: 5, y: 19, z: 3}
+        order: 1107
+        type: 5
+      - position: {x: 5, y: 19, z: 2}
+        order: 1108
+        type: 5
+      - position: {x: 5, y: 19, z: 1}
+        order: 1109
+        type: 5
+      - position: {x: 5, y: 19, z: 0}
+        order: 1110
+        type: 9
+      - position: {x: 5, y: 19, z: -1}
+        order: 1111
+        type: 5
+      - position: {x: 5, y: 19, z: -2}
+        order: 1112
+        type: 5
+      - position: {x: 5, y: 19, z: -3}
+        order: 1113
+        type: 5
+      - position: {x: 5, y: 19, z: -4}
+        order: 1114
+        type: 5
+      - position: {x: 5, y: 20, z: -4}
+        order: 1115
+        type: 5
+      - position: {x: 5, y: 20, z: -5}
+        order: 1116
+        type: 9
+      - position: {x: 4, y: 20, z: -5}
+        order: 1117
+        type: 5
+      - position: {x: 3, y: 20, z: -5}
+        order: 1118
+        type: 5
+      - position: {x: 2, y: 20, z: -5}
+        order: 1119
+        type: 5
+      - position: {x: 1, y: 20, z: -5}
+        order: 1120
+        type: 5
+      - position: {x: 0, y: 20, z: -5}
+        order: 1121
+        type: 9
+      - position: {x: -1, y: 20, z: -5}
+        order: 1122
+        type: 5
+      - position: {x: -2, y: 20, z: -5}
+        order: 1123
+        type: 5
+      - position: {x: -3, y: 20, z: -5}
+        order: 1124
+        type: 5
+      - position: {x: -4, y: 20, z: -5}
+        order: 1125
+        type: 5
+      - position: {x: -5, y: 20, z: -5}
+        order: 1126
+        type: 9
+      - position: {x: -5, y: 20, z: -4}
+        order: 1127
+        type: 5
+      - position: {x: -5, y: 20, z: -3}
+        order: 1128
+        type: 5
+      - position: {x: -5, y: 20, z: -2}
+        order: 1129
+        type: 5
+      - position: {x: -5, y: 20, z: -1}
+        order: 1130
+        type: 5
+      - position: {x: -5, y: 20, z: 0}
+        order: 1131
+        type: 9
+      - position: {x: -5, y: 20, z: 1}
+        order: 1132
+        type: 5
+      - position: {x: -5, y: 20, z: 2}
+        order: 1133
+        type: 5
+      - position: {x: -5, y: 20, z: 3}
+        order: 1134
+        type: 5
+      - position: {x: -5, y: 20, z: 4}
+        order: 1135
+        type: 5
+      - position: {x: -5, y: 20, z: 5}
+        order: 1136
+        type: 9
+      - position: {x: -4, y: 20, z: 5}
+        order: 1137
+        type: 5
+      - position: {x: -3, y: 20, z: 5}
+        order: 1138
+        type: 5
+      - position: {x: -2, y: 20, z: 5}
+        order: 1139
+        type: 5
+      - position: {x: -1, y: 20, z: 5}
+        order: 1140
+        type: 5
+      - position: {x: 0, y: 20, z: 5}
+        order: 1141
+        type: 9
+      - position: {x: 1, y: 20, z: 5}
+        order: 1142
+        type: 5
+      - position: {x: 2, y: 20, z: 5}
+        order: 1143
+        type: 5
+      - position: {x: 3, y: 20, z: 5}
+        order: 1144
+        type: 5
+      - position: {x: 4, y: 20, z: 5}
+        order: 1145
+        type: 5
+      - position: {x: 5, y: 20, z: 5}
+        order: 1146
+        type: 9
+      - position: {x: 5, y: 20, z: 4}
+        order: 1147
+        type: 5
+      - position: {x: 5, y: 20, z: 3}
+        order: 1148
+        type: 5
+      - position: {x: 5, y: 20, z: 2}
+        order: 1149
+        type: 5
+      - position: {x: 5, y: 20, z: 1}
+        order: 1150
+        type: 5
+      - position: {x: 5, y: 20, z: 0}
+        order: 1151
+        type: 9
+      - position: {x: 5, y: 20, z: -1}
+        order: 1152
+        type: 5
+      - position: {x: 5, y: 20, z: -2}
+        order: 1153
+        type: 5
+      - position: {x: 5, y: 20, z: -3}
+        order: 1154
+        type: 5
+      - position: {x: 5, y: 21, z: -3}
+        order: 1155
+        type: 5
+      - position: {x: 5, y: 21, z: -4}
+        order: 1156
+        type: 5
+      - position: {x: 5, y: 21, z: -5}
+        order: 1157
+        type: 9
+      - position: {x: 4, y: 21, z: -5}
+        order: 1158
+        type: 5
+      - position: {x: 3, y: 21, z: -5}
+        order: 1159
+        type: 5
+      - position: {x: 2, y: 21, z: -5}
+        order: 1160
+        type: 5
+      - position: {x: 1, y: 21, z: -5}
+        order: 1161
+        type: 5
+      - position: {x: 0, y: 21, z: -5}
+        order: 1162
+        type: 9
+      - position: {x: -1, y: 21, z: -5}
+        order: 1163
+        type: 5
+      - position: {x: -2, y: 21, z: -5}
+        order: 1164
+        type: 5
+      - position: {x: -3, y: 21, z: -5}
+        order: 1165
+        type: 5
+      - position: {x: -4, y: 21, z: -5}
+        order: 1166
+        type: 5
+      - position: {x: -5, y: 21, z: -5}
+        order: 1167
+        type: 9
+      - position: {x: -5, y: 21, z: -4}
+        order: 1168
+        type: 5
+      - position: {x: -5, y: 21, z: -3}
+        order: 1169
+        type: 5
+      - position: {x: -5, y: 21, z: -2}
+        order: 1170
+        type: 5
+      - position: {x: -5, y: 21, z: -1}
+        order: 1171
+        type: 5
+      - position: {x: -5, y: 21, z: 0}
+        order: 1172
+        type: 9
+      - position: {x: -5, y: 21, z: 1}
+        order: 1173
+        type: 5
+      - position: {x: -5, y: 21, z: 2}
+        order: 1174
+        type: 5
+      - position: {x: -5, y: 21, z: 3}
+        order: 1175
+        type: 5
+      - position: {x: -5, y: 21, z: 4}
+        order: 1176
+        type: 5
+      - position: {x: -5, y: 21, z: 5}
+        order: 1177
+        type: 9
+      - position: {x: -4, y: 21, z: 5}
+        order: 1178
+        type: 5
+      - position: {x: -3, y: 21, z: 5}
+        order: 1179
+        type: 5
+      - position: {x: -2, y: 21, z: 5}
+        order: 1180
+        type: 5
+      - position: {x: -1, y: 21, z: 5}
+        order: 1181
+        type: 5
+      - position: {x: 0, y: 21, z: 5}
+        order: 1182
+        type: 9
+      - position: {x: 1, y: 21, z: 5}
+        order: 1183
+        type: 5
+      - position: {x: 2, y: 21, z: 5}
+        order: 1184
+        type: 5
+      - position: {x: 3, y: 21, z: 5}
+        order: 1185
+        type: 5
+      - position: {x: 4, y: 21, z: 5}
+        order: 1186
+        type: 5
+      - position: {x: 5, y: 21, z: 5}
+        order: 1187
+        type: 9
+      - position: {x: 5, y: 21, z: 4}
+        order: 1188
+        type: 5
+      - position: {x: 5, y: 21, z: 3}
+        order: 1189
+        type: 5
+      - position: {x: 5, y: 21, z: 2}
+        order: 1190
+        type: 5
+      - position: {x: 5, y: 21, z: 1}
+        order: 1191
+        type: 5
+      - position: {x: 5, y: 21, z: 0}
+        order: 1192
+        type: 9
+      - position: {x: 5, y: 21, z: -1}
+        order: 1193
+        type: 5
+      - position: {x: 5, y: 21, z: -2}
+        order: 1194
+        type: 5
+      - position: {x: 5, y: 22, z: -2}
+        order: 1195
+        type: 5
+      - position: {x: 5, y: 22, z: -3}
+        order: 1196
+        type: 5
+      - position: {x: 5, y: 22, z: -4}
+        order: 1197
+        type: 5
+      - position: {x: 5, y: 22, z: -5}
+        order: 1198
+        type: 9
+      - position: {x: 4, y: 22, z: -5}
+        order: 1199
+        type: 5
+      - position: {x: 3, y: 22, z: -5}
+        order: 1200
+        type: 5
+      - position: {x: 2, y: 22, z: -5}
+        order: 1201
+        type: 5
+      - position: {x: 1, y: 22, z: -5}
+        order: 1202
+        type: 5
+      - position: {x: 0, y: 22, z: -5}
+        order: 1203
+        type: 9
+      - position: {x: -1, y: 22, z: -5}
+        order: 1204
+        type: 5
+      - position: {x: -2, y: 22, z: -5}
+        order: 1205
+        type: 5
+      - position: {x: -3, y: 22, z: -5}
+        order: 1206
+        type: 5
+      - position: {x: -4, y: 22, z: -5}
+        order: 1207
+        type: 5
+      - position: {x: -5, y: 22, z: -5}
+        order: 1208
+        type: 9
+      - position: {x: -5, y: 22, z: -4}
+        order: 1209
+        type: 5
+      - position: {x: -5, y: 22, z: -3}
+        order: 1210
+        type: 5
+      - position: {x: -5, y: 22, z: -2}
+        order: 1211
+        type: 5
+      - position: {x: -5, y: 22, z: -1}
+        order: 1212
+        type: 5
+      - position: {x: -5, y: 22, z: 0}
+        order: 1213
+        type: 9
+      - position: {x: -5, y: 22, z: 1}
+        order: 1214
+        type: 5
+      - position: {x: -5, y: 22, z: 2}
+        order: 1215
+        type: 5
+      - position: {x: -5, y: 22, z: 3}
+        order: 1216
+        type: 5
+      - position: {x: -5, y: 22, z: 4}
+        order: 1217
+        type: 5
+      - position: {x: -5, y: 22, z: 5}
+        order: 1218
+        type: 9
+      - position: {x: -4, y: 22, z: 5}
+        order: 1219
+        type: 5
+      - position: {x: -3, y: 22, z: 5}
+        order: 1220
+        type: 5
+      - position: {x: -2, y: 22, z: 5}
+        order: 1221
+        type: 5
+      - position: {x: -1, y: 22, z: 5}
+        order: 1222
+        type: 5
+      - position: {x: 0, y: 22, z: 5}
+        order: 1223
+        type: 9
+      - position: {x: 1, y: 22, z: 5}
+        order: 1224
+        type: 5
+      - position: {x: 2, y: 22, z: 5}
+        order: 1225
+        type: 5
+      - position: {x: 3, y: 22, z: 5}
+        order: 1226
+        type: 5
+      - position: {x: 4, y: 22, z: 5}
+        order: 1227
+        type: 5
+      - position: {x: 5, y: 22, z: 5}
+        order: 1228
+        type: 9
+      - position: {x: 5, y: 22, z: 4}
+        order: 1229
+        type: 5
+      - position: {x: 5, y: 22, z: 3}
+        order: 1230
+        type: 5
+      - position: {x: 5, y: 22, z: 2}
+        order: 1231
+        type: 5
+      - position: {x: 5, y: 22, z: 1}
+        order: 1232
+        type: 5
+      - position: {x: 5, y: 22, z: 0}
+        order: 1233
+        type: 9
+      - position: {x: 5, y: 22, z: -1}
+        order: 1234
+        type: 5
+      - position: {x: 5, y: 23, z: -1}
+        order: 1235
+        type: 5
+      - position: {x: 5, y: 23, z: -2}
+        order: 1236
+        type: 5
+      - position: {x: 5, y: 23, z: -3}
+        order: 1237
+        type: 5
+      - position: {x: 5, y: 23, z: -4}
+        order: 1238
+        type: 5
+      - position: {x: 5, y: 23, z: -5}
+        order: 1239
+        type: 9
+      - position: {x: 4, y: 23, z: -5}
+        order: 1240
+        type: 5
+      - position: {x: 3, y: 23, z: -5}
+        order: 1241
+        type: 5
+      - position: {x: 2, y: 23, z: -5}
+        order: 1242
+        type: 5
+      - position: {x: 1, y: 23, z: -5}
+        order: 1243
+        type: 5
+      - position: {x: 0, y: 23, z: -5}
+        order: 1244
+        type: 9
+      - position: {x: -1, y: 23, z: -5}
+        order: 1245
+        type: 5
+      - position: {x: -2, y: 23, z: -5}
+        order: 1246
+        type: 5
+      - position: {x: -3, y: 23, z: -5}
+        order: 1247
+        type: 5
+      - position: {x: -4, y: 23, z: -5}
+        order: 1248
+        type: 5
+      - position: {x: -5, y: 23, z: -5}
+        order: 1249
+        type: 9
+      - position: {x: -5, y: 23, z: -4}
+        order: 1250
+        type: 5
+      - position: {x: -5, y: 23, z: -3}
+        order: 1251
+        type: 5
+      - position: {x: -5, y: 23, z: -2}
+        order: 1252
+        type: 5
+      - position: {x: -5, y: 23, z: -1}
+        order: 1253
+        type: 5
+      - position: {x: -5, y: 23, z: 0}
+        order: 1254
+        type: 9
+      - position: {x: -5, y: 23, z: 1}
+        order: 1255
+        type: 5
+      - position: {x: -5, y: 23, z: 2}
+        order: 1256
+        type: 5
+      - position: {x: -5, y: 23, z: 3}
+        order: 1257
+        type: 5
+      - position: {x: -5, y: 23, z: 4}
+        order: 1258
+        type: 5
+      - position: {x: -5, y: 23, z: 5}
+        order: 1259
+        type: 9
+      - position: {x: -4, y: 23, z: 5}
+        order: 1260
+        type: 5
+      - position: {x: -3, y: 23, z: 5}
+        order: 1261
+        type: 5
+      - position: {x: -2, y: 23, z: 5}
+        order: 1262
+        type: 5
+      - position: {x: -1, y: 23, z: 5}
+        order: 1263
+        type: 5
+      - position: {x: 0, y: 23, z: 5}
+        order: 1264
+        type: 9
+      - position: {x: 1, y: 23, z: 5}
+        order: 1265
+        type: 5
+      - position: {x: 2, y: 23, z: 5}
+        order: 1266
+        type: 5
+      - position: {x: 3, y: 23, z: 5}
+        order: 1267
+        type: 5
+      - position: {x: 4, y: 23, z: 5}
+        order: 1268
+        type: 5
+      - position: {x: 5, y: 23, z: 5}
+        order: 1269
+        type: 9
+      - position: {x: 5, y: 23, z: 4}
+        order: 1270
+        type: 5
+      - position: {x: 5, y: 23, z: 3}
+        order: 1271
+        type: 5
+      - position: {x: 5, y: 23, z: 2}
+        order: 1272
+        type: 5
+      - position: {x: 5, y: 23, z: 1}
+        order: 1273
+        type: 5
+      - position: {x: 5, y: 23, z: 0}
+        order: 1274
+        type: 9
+      - position: {x: 5, y: 24, z: 0}
+        order: 1275
+        type: 13
+      - position: {x: 5, y: 24, z: -1}
+        order: 1276
+        type: 13
+      - position: {x: 5, y: 24, z: -2}
+        order: 1277
+        type: 13
+      - position: {x: 5, y: 24, z: -3}
+        order: 1278
+        type: 13
+      - position: {x: 5, y: 24, z: -4}
+        order: 1279
+        type: 13
+      - position: {x: 5, y: 24, z: -5}
+        order: 1280
+        type: 13
+      - position: {x: 4, y: 24, z: -5}
+        order: 1281
+        type: 13
+      - position: {x: 4, y: 24, z: -4}
+        order: 1282
+        type: 13
+      - position: {x: 4, y: 24, z: -3}
+        order: 1283
+        type: 13
+      - position: {x: 4, y: 24, z: -2}
+        order: 1284
+        type: 13
+      - position: {x: 4, y: 24, z: -1}
+        order: 1285
+        type: 13
+      - position: {x: 4, y: 24, z: 0}
+        order: 1286
+        type: 13
+      - position: {x: 4, y: 24, z: 1}
+        order: 1287
+        type: 13
+      - position: {x: 5, y: 24, z: 1}
+        order: 1288
+        type: 13
+      - position: {x: 5, y: 24, z: 2}
+        order: 1289
+        type: 13
+      - position: {x: 5, y: 24, z: 3}
+        order: 1290
+        type: 13
+      - position: {x: 5, y: 24, z: 4}
+        order: 1291
+        type: 13
+      - position: {x: 5, y: 24, z: 5}
+        order: 1292
+        type: 13
+      - position: {x: 4, y: 24, z: 5}
+        order: 1293
+        type: 13
+      - position: {x: 4, y: 24, z: 4}
+        order: 1294
+        type: 13
+      - position: {x: 4, y: 24, z: 3}
+        order: 1295
+        type: 13
+      - position: {x: 4, y: 24, z: 2}
+        order: 1296
+        type: 13
+      - position: {x: 3, y: 24, z: 2}
+        order: 1297
+        type: 13
+      - position: {x: 3, y: 24, z: 1}
+        order: 1298
+        type: 13
+      - position: {x: 3, y: 24, z: 0}
+        order: 1299
+        type: 13
+      - position: {x: 3, y: 24, z: -1}
+        order: 1300
+        type: 13
+      - position: {x: 3, y: 24, z: -2}
+        order: 1301
+        type: 13
+      - position: {x: 3, y: 24, z: -3}
+        order: 1302
+        type: 13
+      - position: {x: 3, y: 24, z: -4}
+        order: 1303
+        type: 13
+      - position: {x: 3, y: 24, z: -5}
+        order: 1304
+        type: 13
+      - position: {x: 2, y: 24, z: -5}
+        order: 1305
+        type: 13
+      - position: {x: 2, y: 24, z: -4}
+        order: 1306
+        type: 13
+      - position: {x: 2, y: 24, z: -3}
+        order: 1307
+        type: 13
+      - position: {x: 2, y: 24, z: -2}
+        order: 1308
+        type: 13
+      - position: {x: 2, y: 24, z: -1}
+        order: 1309
+        type: 13
+      - position: {x: 2, y: 24, z: 0}
+        order: 1310
+        type: 13
+      - position: {x: 2, y: 24, z: 1}
+        order: 1311
+        type: 13
+      - position: {x: 2, y: 24, z: 2}
+        order: 1312
+        type: 13
+      - position: {x: 2, y: 24, z: 3}
+        order: 1313
+        type: 13
+      - position: {x: 3, y: 24, z: 3}
+        order: 1314
+        type: 13
+      - position: {x: 3, y: 24, z: 4}
+        order: 1315
+        type: 13
+      - position: {x: 3, y: 24, z: 5}
+        order: 1316
+        type: 13
+      - position: {x: 2, y: 24, z: 5}
+        order: 1317
+        type: 13
+      - position: {x: 2, y: 24, z: 4}
+        order: 1318
+        type: 13
+      - position: {x: 1, y: 24, z: 4}
+        order: 1319
+        type: 13
+      - position: {x: 1, y: 24, z: 3}
+        order: 1320
+        type: 13
+      - position: {x: 1, y: 24, z: 2}
+        order: 1321
+        type: 13
+      - position: {x: 1, y: 24, z: 1}
+        order: 1322
+        type: 13
+      - position: {x: 1, y: 24, z: 0}
+        order: 1323
+        type: 13
+      - position: {x: 1, y: 24, z: -1}
+        order: 1324
+        type: 13
+      - position: {x: 1, y: 24, z: -2}
+        order: 1325
+        type: 13
+      - position: {x: 1, y: 24, z: -3}
+        order: 1326
+        type: 13
+      - position: {x: 1, y: 24, z: -4}
+        order: 1327
+        type: 13
+      - position: {x: 1, y: 24, z: -5}
+        order: 1328
+        type: 13
+      - position: {x: 0, y: 24, z: -5}
+        order: 1329
+        type: 13
+      - position: {x: 0, y: 24, z: -4}
+        order: 1330
+        type: 13
+      - position: {x: 0, y: 24, z: -3}
+        order: 1331
+        type: 13
+      - position: {x: 0, y: 24, z: -2}
+        order: 1332
+        type: 13
+      - position: {x: 0, y: 24, z: -1}
+        order: 1333
+        type: 13
+      - position: {x: 0, y: 24, z: 0}
+        order: 1334
+        type: 13
+      - position: {x: 0, y: 24, z: 1}
+        order: 1335
+        type: 13
+      - position: {x: 0, y: 24, z: 2}
+        order: 1336
+        type: 13
+      - position: {x: 0, y: 24, z: 3}
+        order: 1337
+        type: 13
+      - position: {x: 0, y: 24, z: 4}
+        order: 1338
+        type: 13
+      - position: {x: 1, y: 24, z: 5}
+        order: 1339
+        type: 13
+      - position: {x: 0, y: 24, z: 5}
+        order: 1340
+        type: 13
+      - position: {x: -1, y: 24, z: 5}
+        order: 1341
+        type: 13
+      - position: {x: -1, y: 24, z: 4}
+        order: 1342
+        type: 13
+      - position: {x: -1, y: 24, z: 3}
+        order: 1343
+        type: 13
+      - position: {x: -1, y: 24, z: 2}
+        order: 1344
+        type: 13
+      - position: {x: -1, y: 24, z: 1}
+        order: 1345
+        type: 13
+      - position: {x: -1, y: 24, z: 0}
+        order: 1346
+        type: 13
+      - position: {x: -1, y: 24, z: -1}
+        order: 1347
+        type: 13
+      - position: {x: -1, y: 24, z: -2}
+        order: 1348
+        type: 13
+      - position: {x: -1, y: 24, z: -3}
+        order: 1349
+        type: 13
+      - position: {x: -1, y: 24, z: -4}
+        order: 1350
+        type: 13
+      - position: {x: -1, y: 24, z: -5}
+        order: 1351
+        type: 13
+      - position: {x: -2, y: 24, z: -5}
+        order: 1352
+        type: 13
+      - position: {x: -2, y: 24, z: -4}
+        order: 1353
+        type: 13
+      - position: {x: -2, y: 24, z: -3}
+        order: 1354
+        type: 13
+      - position: {x: -2, y: 24, z: -2}
+        order: 1355
+        type: 13
+      - position: {x: -2, y: 24, z: -1}
+        order: 1356
+        type: 13
+      - position: {x: -2, y: 24, z: 0}
+        order: 1357
+        type: 13
+      - position: {x: -2, y: 24, z: 1}
+        order: 1358
+        type: 13
+      - position: {x: -2, y: 24, z: 2}
+        order: 1359
+        type: 13
+      - position: {x: -2, y: 24, z: 3}
+        order: 1360
+        type: 13
+      - position: {x: -2, y: 24, z: 4}
+        order: 1361
+        type: 13
+      - position: {x: -2, y: 24, z: 5}
+        order: 1362
+        type: 13
+      - position: {x: -3, y: 24, z: 5}
+        order: 1363
+        type: 13
+      - position: {x: -3, y: 24, z: 4}
+        order: 1364
+        type: 13
+      - position: {x: -3, y: 24, z: 3}
+        order: 1365
+        type: 13
+      - position: {x: -3, y: 24, z: 2}
+        order: 1366
+        type: 13
+      - position: {x: -3, y: 24, z: 1}
+        order: 1367
+        type: 13
+      - position: {x: -3, y: 24, z: 0}
+        order: 1368
+        type: 13
+      - position: {x: -3, y: 24, z: -1}
+        order: 1369
+        type: 13
+      - position: {x: -3, y: 24, z: -2}
+        order: 1370
+        type: 13
+      - position: {x: -3, y: 24, z: -3}
+        order: 1371
+        type: 13
+      - position: {x: -3, y: 24, z: -4}
+        order: 1372
+        type: 13
+      - position: {x: -3, y: 24, z: -5}
+        order: 1373
+        type: 13
+      - position: {x: -4, y: 24, z: -5}
+        order: 1374
+        type: 13
+      - position: {x: -4, y: 24, z: -4}
+        order: 1375
+        type: 13
+      - position: {x: -4, y: 24, z: -3}
+        order: 1376
+        type: 13
+      - position: {x: -4, y: 24, z: -2}
+        order: 1377
+        type: 13
+      - position: {x: -4, y: 24, z: -1}
+        order: 1378
+        type: 13
+      - position: {x: -4, y: 24, z: 0}
+        order: 1379
+        type: 13
+      - position: {x: -4, y: 24, z: 1}
+        order: 1380
+        type: 13
+      - position: {x: -4, y: 24, z: 2}
+        order: 1381
+        type: 13
+      - position: {x: -4, y: 24, z: 3}
+        order: 1382
+        type: 13
+      - position: {x: -4, y: 24, z: 4}
+        order: 1383
+        type: 13
+      - position: {x: -4, y: 24, z: 5}
+        order: 1384
+        type: 13
+      - position: {x: -5, y: 24, z: 5}
+        order: 1385
+        type: 13
+      - position: {x: -5, y: 24, z: 4}
+        order: 1386
+        type: 13
+      - position: {x: -5, y: 24, z: 3}
+        order: 1387
+        type: 13
+      - position: {x: -5, y: 24, z: 2}
+        order: 1388
+        type: 13
+      - position: {x: -5, y: 24, z: 1}
+        order: 1389
+        type: 13
+      - position: {x: -5, y: 24, z: 0}
+        order: 1390
+        type: 13
+      - position: {x: -5, y: 24, z: -1}
+        order: 1391
+        type: 13
+      - position: {x: -5, y: 24, z: -2}
+        order: 1392
+        type: 13
+      - position: {x: -5, y: 24, z: -3}
+        order: 1393
+        type: 13
+      - position: {x: -5, y: 24, z: -4}
+        order: 1394
+        type: 13
+      - position: {x: -5, y: 24, z: -5}
+        order: 1395
+        type: 13
+      - position: {x: -5, y: 25, z: -5}
+        order: 1396
+        type: 9
+      - position: {x: -5, y: 25, z: -4}
+        order: 1397
+        type: 5
+      - position: {x: -5, y: 25, z: -3}
+        order: 1398
+        type: 5
+      - position: {x: -5, y: 25, z: -2}
+        order: 1399
+        type: 5
+      - position: {x: -5, y: 25, z: -1}
+        order: 1400
+        type: 5
+      - position: {x: -5, y: 25, z: 0}
+        order: 1401
+        type: 9
+      - position: {x: -5, y: 25, z: 1}
+        order: 1402
+        type: 5
+      - position: {x: -5, y: 25, z: 2}
+        order: 1403
+        type: 5
+      - position: {x: -5, y: 25, z: 3}
+        order: 1404
+        type: 5
+      - position: {x: -5, y: 25, z: 4}
+        order: 1405
+        type: 5
+      - position: {x: -5, y: 25, z: 5}
+        order: 1406
+        type: 9
+      - position: {x: -4, y: 25, z: 5}
+        order: 1407
+        type: 5
+      - position: {x: -3, y: 25, z: 5}
+        order: 1408
+        type: 5
+      - position: {x: -2, y: 25, z: 5}
+        order: 1409
+        type: 5
+      - position: {x: -1, y: 25, z: 5}
+        order: 1410
+        type: 5
+      - position: {x: 0, y: 25, z: 5}
+        order: 1411
+        type: 9
+      - position: {x: 1, y: 25, z: 5}
+        order: 1412
+        type: 5
+      - position: {x: 2, y: 25, z: 5}
+        order: 1413
+        type: 5
+      - position: {x: 3, y: 25, z: 5}
+        order: 1414
+        type: 5
+      - position: {x: 4, y: 25, z: 5}
+        order: 1415
+        type: 5
+      - position: {x: 5, y: 25, z: 5}
+        order: 1416
+        type: 9
+      - position: {x: 5, y: 25, z: 4}
+        order: 1417
+        type: 5
+      - position: {x: 5, y: 25, z: 3}
+        order: 1418
+        type: 5
+      - position: {x: 5, y: 25, z: 2}
+        order: 1419
+        type: 5
+      - position: {x: 5, y: 25, z: 1}
+        order: 1420
+        type: 5
+      - position: {x: 5, y: 25, z: 0}
+        order: 1421
+        type: 9
+      - position: {x: 5, y: 25, z: -1}
+        order: 1422
+        type: 5
+      - position: {x: 5, y: 25, z: -2}
+        order: 1423
+        type: 5
+      - position: {x: 5, y: 25, z: -3}
+        order: 1424
+        type: 5
+      - position: {x: 5, y: 25, z: -4}
+        order: 1425
+        type: 5
+      - position: {x: 5, y: 25, z: -5}
+        order: 1426
+        type: 9
+      - position: {x: 4, y: 25, z: -5}
+        order: 1427
+        type: 5
+      - position: {x: 3, y: 25, z: -5}
+        order: 1428
+        type: 5
+      - position: {x: 2, y: 25, z: -5}
+        order: 1429
+        type: 5
+      - position: {x: 1, y: 25, z: -5}
+        order: 1430
+        type: 5
+      - position: {x: 0, y: 25, z: -5}
+        order: 1431
+        type: 9
+      - position: {x: -1, y: 25, z: -5}
+        order: 1432
+        type: 5
+      - position: {x: -2, y: 25, z: -5}
+        order: 1433
+        type: 5
+      - position: {x: -3, y: 25, z: -5}
+        order: 1434
+        type: 5
+      - position: {x: -4, y: 25, z: -5}
+        order: 1435
+        type: 5
+      - position: {x: -4, y: 26, z: -5}
+        order: 1436
+        type: 5
+      - position: {x: -5, y: 26, z: -5}
+        order: 1437
+        type: 9
+      - position: {x: -5, y: 26, z: -4}
+        order: 1438
+        type: 5
+      - position: {x: -5, y: 26, z: -3}
+        order: 1439
+        type: 5
+      - position: {x: -5, y: 26, z: -2}
+        order: 1440
+        type: 5
+      - position: {x: -5, y: 26, z: -1}
+        order: 1441
+        type: 5
+      - position: {x: -5, y: 26, z: 0}
+        order: 1442
+        type: 9
+      - position: {x: -5, y: 26, z: 1}
+        order: 1443
+        type: 5
+      - position: {x: -5, y: 26, z: 2}
+        order: 1444
+        type: 5
+      - position: {x: -5, y: 26, z: 3}
+        order: 1445
+        type: 5
+      - position: {x: -5, y: 26, z: 4}
+        order: 1446
+        type: 5
+      - position: {x: -5, y: 26, z: 5}
+        order: 1447
+        type: 9
+      - position: {x: -4, y: 26, z: 5}
+        order: 1448
+        type: 5
+      - position: {x: -3, y: 26, z: 5}
+        order: 1449
+        type: 5
+      - position: {x: -2, y: 26, z: 5}
+        order: 1450
+        type: 5
+      - position: {x: -1, y: 26, z: 5}
+        order: 1451
+        type: 5
+      - position: {x: 0, y: 26, z: 5}
+        order: 1452
+        type: 9
+      - position: {x: 1, y: 26, z: 5}
+        order: 1453
+        type: 5
+      - position: {x: 2, y: 26, z: 5}
+        order: 1454
+        type: 5
+      - position: {x: 3, y: 26, z: 5}
+        order: 1455
+        type: 5
+      - position: {x: 4, y: 26, z: 5}
+        order: 1456
+        type: 5
+      - position: {x: 5, y: 26, z: 5}
+        order: 1457
+        type: 9
+      - position: {x: 5, y: 26, z: 4}
+        order: 1458
+        type: 5
+      - position: {x: 5, y: 26, z: 3}
+        order: 1459
+        type: 5
+      - position: {x: 5, y: 26, z: 2}
+        order: 1460
+        type: 5
+      - position: {x: 5, y: 26, z: 1}
+        order: 1461
+        type: 5
+      - position: {x: 5, y: 26, z: 0}
+        order: 1462
+        type: 9
+      - position: {x: 5, y: 26, z: -1}
+        order: 1463
+        type: 5
+      - position: {x: 5, y: 26, z: -2}
+        order: 1464
+        type: 5
+      - position: {x: 5, y: 26, z: -3}
+        order: 1465
+        type: 5
+      - position: {x: 5, y: 26, z: -4}
+        order: 1466
+        type: 5
+      - position: {x: 5, y: 26, z: -5}
+        order: 1467
+        type: 9
+      - position: {x: 4, y: 26, z: -5}
+        order: 1468
+        type: 5
+      - position: {x: 3, y: 26, z: -5}
+        order: 1469
+        type: 5
+      - position: {x: 2, y: 26, z: -5}
+        order: 1470
+        type: 5
+      - position: {x: 1, y: 26, z: -5}
+        order: 1471
+        type: 5
+      - position: {x: 0, y: 26, z: -5}
+        order: 1472
+        type: 9
+      - position: {x: -1, y: 26, z: -5}
+        order: 1473
+        type: 5
+      - position: {x: -2, y: 26, z: -5}
+        order: 1474
+        type: 5
+      - position: {x: -3, y: 26, z: -5}
+        order: 1475
+        type: 5
+      - position: {x: -3, y: 27, z: -5}
+        order: 1476
+        type: 5
+      - position: {x: -4, y: 27, z: -5}
+        order: 1477
+        type: 5
+      - position: {x: -5, y: 27, z: -5}
+        order: 1478
+        type: 9
+      - position: {x: -5, y: 27, z: -4}
+        order: 1479
+        type: 5
+      - position: {x: -5, y: 27, z: -3}
+        order: 1480
+        type: 5
+      - position: {x: -5, y: 27, z: -2}
+        order: 1481
+        type: 5
+      - position: {x: -5, y: 27, z: -1}
+        order: 1482
+        type: 5
+      - position: {x: -5, y: 27, z: 0}
+        order: 1483
+        type: 9
+      - position: {x: -5, y: 27, z: 1}
+        order: 1484
+        type: 5
+      - position: {x: -5, y: 27, z: 2}
+        order: 1485
+        type: 5
+      - position: {x: -5, y: 27, z: 3}
+        order: 1486
+        type: 5
+      - position: {x: -5, y: 27, z: 4}
+        order: 1487
+        type: 5
+      - position: {x: -5, y: 27, z: 5}
+        order: 1488
+        type: 9
+      - position: {x: -4, y: 27, z: 5}
+        order: 1489
+        type: 5
+      - position: {x: -3, y: 27, z: 5}
+        order: 1490
+        type: 5
+      - position: {x: -2, y: 27, z: 5}
+        order: 1491
+        type: 5
+      - position: {x: -1, y: 27, z: 5}
+        order: 1492
+        type: 5
+      - position: {x: 0, y: 27, z: 5}
+        order: 1493
+        type: 9
+      - position: {x: 1, y: 27, z: 5}
+        order: 1494
+        type: 5
+      - position: {x: 2, y: 27, z: 5}
+        order: 1495
+        type: 5
+      - position: {x: 3, y: 27, z: 5}
+        order: 1496
+        type: 5
+      - position: {x: 4, y: 27, z: 5}
+        order: 1497
+        type: 5
+      - position: {x: 5, y: 27, z: 5}
+        order: 1498
+        type: 9
+      - position: {x: 5, y: 27, z: 4}
+        order: 1499
+        type: 5
+      - position: {x: 5, y: 27, z: 3}
+        order: 1500
+        type: 5
+      - position: {x: 5, y: 27, z: 2}
+        order: 1501
+        type: 5
+      - position: {x: 5, y: 27, z: 1}
+        order: 1502
+        type: 5
+      - position: {x: 5, y: 27, z: 0}
+        order: 1503
+        type: 9
+      - position: {x: 5, y: 27, z: -1}
+        order: 1504
+        type: 5
+      - position: {x: 5, y: 27, z: -2}
+        order: 1505
+        type: 5
+      - position: {x: 5, y: 27, z: -3}
+        order: 1506
+        type: 5
+      - position: {x: 5, y: 27, z: -4}
+        order: 1507
+        type: 5
+      - position: {x: 5, y: 27, z: -5}
+        order: 1508
+        type: 9
+      - position: {x: 4, y: 27, z: -5}
+        order: 1509
+        type: 5
+      - position: {x: 3, y: 27, z: -5}
+        order: 1510
+        type: 5
+      - position: {x: 2, y: 27, z: -5}
+        order: 1511
+        type: 5
+      - position: {x: 1, y: 27, z: -5}
+        order: 1512
+        type: 5
+      - position: {x: 0, y: 27, z: -5}
+        order: 1513
+        type: 9
+      - position: {x: -1, y: 27, z: -5}
+        order: 1514
+        type: 5
+      - position: {x: -2, y: 27, z: -5}
+        order: 1515
+        type: 5
+      - position: {x: -2, y: 28, z: -5}
+        order: 1516
+        type: 5
+      - position: {x: -3, y: 28, z: -5}
+        order: 1517
+        type: 5
+      - position: {x: -4, y: 28, z: -5}
+        order: 1518
+        type: 5
+      - position: {x: -5, y: 28, z: -5}
+        order: 1519
+        type: 9
+      - position: {x: -5, y: 28, z: -4}
+        order: 1520
+        type: 5
+      - position: {x: -5, y: 28, z: -3}
+        order: 1521
+        type: 5
+      - position: {x: -5, y: 28, z: -2}
+        order: 1522
+        type: 5
+      - position: {x: -5, y: 28, z: -1}
+        order: 1523
+        type: 5
+      - position: {x: -5, y: 28, z: 0}
+        order: 1524
+        type: 9
+      - position: {x: -5, y: 28, z: 1}
+        order: 1525
+        type: 5
+      - position: {x: -5, y: 28, z: 2}
+        order: 1526
+        type: 5
+      - position: {x: -5, y: 28, z: 3}
+        order: 1527
+        type: 5
+      - position: {x: -5, y: 28, z: 4}
+        order: 1528
+        type: 5
+      - position: {x: -5, y: 28, z: 5}
+        order: 1529
+        type: 9
+      - position: {x: -4, y: 28, z: 5}
+        order: 1530
+        type: 5
+      - position: {x: -3, y: 28, z: 5}
+        order: 1531
+        type: 5
+      - position: {x: -2, y: 28, z: 5}
+        order: 1532
+        type: 5
+      - position: {x: -1, y: 28, z: 5}
+        order: 1533
+        type: 5
+      - position: {x: 0, y: 28, z: 5}
+        order: 1534
+        type: 9
+      - position: {x: 1, y: 28, z: 5}
+        order: 1535
+        type: 5
+      - position: {x: 2, y: 28, z: 5}
+        order: 1536
+        type: 5
+      - position: {x: 3, y: 28, z: 5}
+        order: 1537
+        type: 5
+      - position: {x: 4, y: 28, z: 5}
+        order: 1538
+        type: 5
+      - position: {x: 5, y: 28, z: 5}
+        order: 1539
+        type: 9
+      - position: {x: 5, y: 28, z: 4}
+        order: 1540
+        type: 5
+      - position: {x: 5, y: 28, z: 3}
+        order: 1541
+        type: 5
+      - position: {x: 5, y: 28, z: 2}
+        order: 1542
+        type: 5
+      - position: {x: 5, y: 28, z: 1}
+        order: 1543
+        type: 5
+      - position: {x: 5, y: 28, z: 0}
+        order: 1544
+        type: 9
+      - position: {x: 5, y: 28, z: -1}
+        order: 1545
+        type: 5
+      - position: {x: 5, y: 28, z: -2}
+        order: 1546
+        type: 5
+      - position: {x: 5, y: 28, z: -3}
+        order: 1547
+        type: 5
+      - position: {x: 5, y: 28, z: -4}
+        order: 1548
+        type: 5
+      - position: {x: 5, y: 28, z: -5}
+        order: 1549
+        type: 9
+      - position: {x: 4, y: 28, z: -5}
+        order: 1550
+        type: 5
+      - position: {x: 3, y: 28, z: -5}
+        order: 1551
+        type: 5
+      - position: {x: 2, y: 28, z: -5}
+        order: 1552
+        type: 5
+      - position: {x: 1, y: 28, z: -5}
+        order: 1553
+        type: 5
+      - position: {x: 0, y: 28, z: -5}
+        order: 1554
+        type: 9
+      - position: {x: -1, y: 28, z: -5}
+        order: 1555
+        type: 5
+      - position: {x: -1, y: 29, z: -5}
+        order: 1556
+        type: 5
+      - position: {x: -2, y: 29, z: -5}
+        order: 1557
+        type: 5
+      - position: {x: -3, y: 29, z: -5}
+        order: 1558
+        type: 5
+      - position: {x: -4, y: 29, z: -5}
+        order: 1559
+        type: 5
+      - position: {x: -5, y: 29, z: -5}
+        order: 1560
+        type: 9
+      - position: {x: -5, y: 29, z: -4}
+        order: 1561
+        type: 5
+      - position: {x: -5, y: 29, z: -3}
+        order: 1562
+        type: 5
+      - position: {x: -5, y: 29, z: -2}
+        order: 1563
+        type: 5
+      - position: {x: -5, y: 29, z: -1}
+        order: 1564
+        type: 5
+      - position: {x: -5, y: 29, z: 0}
+        order: 1565
+        type: 9
+      - position: {x: -5, y: 29, z: 1}
+        order: 1566
+        type: 5
+      - position: {x: -5, y: 29, z: 2}
+        order: 1567
+        type: 5
+      - position: {x: -5, y: 29, z: 3}
+        order: 1568
+        type: 5
+      - position: {x: -5, y: 29, z: 4}
+        order: 1569
+        type: 5
+      - position: {x: -5, y: 29, z: 5}
+        order: 1570
+        type: 9
+      - position: {x: -4, y: 29, z: 5}
+        order: 1571
+        type: 5
+      - position: {x: -3, y: 29, z: 5}
+        order: 1572
+        type: 5
+      - position: {x: -2, y: 29, z: 5}
+        order: 1573
+        type: 5
+      - position: {x: -1, y: 29, z: 5}
+        order: 1574
+        type: 5
+      - position: {x: 0, y: 29, z: 5}
+        order: 1575
+        type: 9
+      - position: {x: 1, y: 29, z: 5}
+        order: 1576
+        type: 5
+      - position: {x: 2, y: 29, z: 5}
+        order: 1577
+        type: 5
+      - position: {x: 3, y: 29, z: 5}
+        order: 1578
+        type: 5
+      - position: {x: 4, y: 29, z: 5}
+        order: 1579
+        type: 5
+      - position: {x: 5, y: 29, z: 5}
+        order: 1580
+        type: 9
+      - position: {x: 5, y: 29, z: 4}
+        order: 1581
+        type: 5
+      - position: {x: 5, y: 29, z: 3}
+        order: 1582
+        type: 5
+      - position: {x: 5, y: 29, z: 2}
+        order: 1583
+        type: 5
+      - position: {x: 5, y: 29, z: 1}
+        order: 1584
+        type: 5
+      - position: {x: 5, y: 29, z: 0}
+        order: 1585
+        type: 9
+      - position: {x: 5, y: 29, z: -1}
+        order: 1586
+        type: 5
+      - position: {x: 5, y: 29, z: -2}
+        order: 1587
+        type: 5
+      - position: {x: 5, y: 29, z: -3}
+        order: 1588
+        type: 5
+      - position: {x: 5, y: 29, z: -4}
+        order: 1589
+        type: 5
+      - position: {x: 5, y: 29, z: -5}
+        order: 1590
+        type: 9
+      - position: {x: 4, y: 29, z: -5}
+        order: 1591
+        type: 5
+      - position: {x: 3, y: 29, z: -5}
+        order: 1592
+        type: 5
+      - position: {x: 2, y: 29, z: -5}
+        order: 1593
+        type: 5
+      - position: {x: 1, y: 29, z: -5}
+        order: 1594
+        type: 5
+      - position: {x: 0, y: 29, z: -5}
+        order: 1595
+        type: 9
+      - position: {x: 0, y: 30, z: -5}
+        order: 1596
+        type: 13
+      - position: {x: -1, y: 30, z: -5}
+        order: 1597
+        type: 13
+      - position: {x: -2, y: 30, z: -5}
+        order: 1598
+        type: 13
+      - position: {x: -3, y: 30, z: -5}
+        order: 1599
+        type: 13
+      - position: {x: -4, y: 30, z: -5}
+        order: 1600
+        type: 13
+      - position: {x: -5, y: 30, z: -5}
+        order: 1601
+        type: 13
+      - position: {x: -5, y: 30, z: -4}
+        order: 1602
+        type: 13
+      - position: {x: -4, y: 30, z: -4}
+        order: 1603
+        type: 13
+      - position: {x: -3, y: 30, z: -4}
+        order: 1604
+        type: 13
+      - position: {x: -2, y: 30, z: -4}
+        order: 1605
+        type: 13
+      - position: {x: -1, y: 30, z: -4}
+        order: 1606
+        type: 13
+      - position: {x: 0, y: 30, z: -4}
+        order: 1607
+        type: 13
+      - position: {x: 1, y: 30, z: -4}
+        order: 1608
+        type: 13
+      - position: {x: 1, y: 30, z: -5}
+        order: 1609
+        type: 13
+      - position: {x: 2, y: 30, z: -5}
+        order: 1610
+        type: 13
+      - position: {x: 3, y: 30, z: -5}
+        order: 1611
+        type: 13
+      - position: {x: 4, y: 30, z: -5}
+        order: 1612
+        type: 13
+      - position: {x: 5, y: 30, z: -5}
+        order: 1613
+        type: 13
+      - position: {x: 5, y: 30, z: -4}
+        order: 1614
+        type: 13
+      - position: {x: 4, y: 30, z: -4}
+        order: 1615
+        type: 13
+      - position: {x: 3, y: 30, z: -4}
+        order: 1616
+        type: 13
+      - position: {x: 2, y: 30, z: -4}
+        order: 1617
+        type: 13
+      - position: {x: 2, y: 30, z: -3}
+        order: 1618
+        type: 13
+      - position: {x: 1, y: 30, z: -3}
+        order: 1619
+        type: 13
+      - position: {x: 0, y: 30, z: -3}
+        order: 1620
+        type: 13
+      - position: {x: -1, y: 30, z: -3}
+        order: 1621
+        type: 13
+      - position: {x: -2, y: 30, z: -3}
+        order: 1622
+        type: 13
+      - position: {x: -3, y: 30, z: -3}
+        order: 1623
+        type: 13
+      - position: {x: -4, y: 30, z: -3}
+        order: 1624
+        type: 13
+      - position: {x: -5, y: 30, z: -3}
+        order: 1625
+        type: 13
+      - position: {x: -5, y: 30, z: -2}
+        order: 1626
+        type: 13
+      - position: {x: -4, y: 30, z: -2}
+        order: 1627
+        type: 13
+      - position: {x: -3, y: 30, z: -2}
+        order: 1628
+        type: 13
+      - position: {x: -2, y: 30, z: -2}
+        order: 1629
+        type: 13
+      - position: {x: -1, y: 30, z: -2}
+        order: 1630
+        type: 13
+      - position: {x: 0, y: 30, z: -2}
+        order: 1631
+        type: 13
+      - position: {x: 1, y: 30, z: -2}
+        order: 1632
+        type: 13
+      - position: {x: 2, y: 30, z: -2}
+        order: 1633
+        type: 13
+      - position: {x: 3, y: 30, z: -2}
+        order: 1634
+        type: 13
+      - position: {x: 3, y: 30, z: -3}
+        order: 1635
+        type: 13
+      - position: {x: 4, y: 30, z: -3}
+        order: 1636
+        type: 13
+      - position: {x: 5, y: 30, z: -3}
+        order: 1637
+        type: 13
+      - position: {x: 5, y: 30, z: -2}
+        order: 1638
+        type: 13
+      - position: {x: 4, y: 30, z: -2}
+        order: 1639
+        type: 13
+      - position: {x: 4, y: 30, z: -1}
+        order: 1640
+        type: 13
+      - position: {x: 3, y: 30, z: -1}
+        order: 1641
+        type: 13
+      - position: {x: 2, y: 30, z: -1}
+        order: 1642
+        type: 13
+      - position: {x: 1, y: 30, z: -1}
+        order: 1643
+        type: 13
+      - position: {x: 0, y: 30, z: -1}
+        order: 1644
+        type: 13
+      - position: {x: -1, y: 30, z: -1}
+        order: 1645
+        type: 13
+      - position: {x: -2, y: 30, z: -1}
+        order: 1646
+        type: 13
+      - position: {x: -3, y: 30, z: -1}
+        order: 1647
+        type: 13
+      - position: {x: -4, y: 30, z: -1}
+        order: 1648
+        type: 13
+      - position: {x: -5, y: 30, z: -1}
+        order: 1649
+        type: 13
+      - position: {x: -5, y: 30, z: 0}
+        order: 1650
+        type: 13
+      - position: {x: -4, y: 30, z: 0}
+        order: 1651
+        type: 13
+      - position: {x: -3, y: 30, z: 0}
+        order: 1652
+        type: 13
+      - position: {x: -2, y: 30, z: 0}
+        order: 1653
+        type: 13
+      - position: {x: -1, y: 30, z: 0}
+        order: 1654
+        type: 13
+      - position: {x: 0, y: 30, z: 0}
+        order: 1655
+        type: 13
+      - position: {x: 1, y: 30, z: 0}
+        order: 1656
+        type: 13
+      - position: {x: 2, y: 30, z: 0}
+        order: 1657
+        type: 13
+      - position: {x: 3, y: 30, z: 0}
+        order: 1658
+        type: 13
+      - position: {x: 4, y: 30, z: 0}
+        order: 1659
+        type: 13
+      - position: {x: 5, y: 30, z: -1}
+        order: 1660
+        type: 13
+      - position: {x: 5, y: 30, z: 0}
+        order: 1661
+        type: 13
+      - position: {x: 5, y: 30, z: 1}
+        order: 1662
+        type: 13
+      - position: {x: 4, y: 30, z: 1}
+        order: 1663
+        type: 13
+      - position: {x: 3, y: 30, z: 1}
+        order: 1664
+        type: 13
+      - position: {x: 2, y: 30, z: 1}
+        order: 1665
+        type: 13
+      - position: {x: 1, y: 30, z: 1}
+        order: 1666
+        type: 13
+      - position: {x: 0, y: 30, z: 1}
+        order: 1667
+        type: 13
+      - position: {x: -1, y: 30, z: 1}
+        order: 1668
+        type: 13
+      - position: {x: -2, y: 30, z: 1}
+        order: 1669
+        type: 13
+      - position: {x: -3, y: 30, z: 1}
+        order: 1670
+        type: 13
+      - position: {x: -4, y: 30, z: 1}
+        order: 1671
+        type: 13
+      - position: {x: -5, y: 30, z: 1}
+        order: 1672
+        type: 13
+      - position: {x: -5, y: 30, z: 2}
+        order: 1673
+        type: 13
+      - position: {x: -4, y: 30, z: 2}
+        order: 1674
+        type: 13
+      - position: {x: -3, y: 30, z: 2}
+        order: 1675
+        type: 13
+      - position: {x: -2, y: 30, z: 2}
+        order: 1676
+        type: 13
+      - position: {x: -1, y: 30, z: 2}
+        order: 1677
+        type: 13
+      - position: {x: 0, y: 30, z: 2}
+        order: 1678
+        type: 13
+      - position: {x: 1, y: 30, z: 2}
+        order: 1679
+        type: 13
+      - position: {x: 2, y: 30, z: 2}
+        order: 1680
+        type: 13
+      - position: {x: 3, y: 30, z: 2}
+        order: 1681
+        type: 13
+      - position: {x: 4, y: 30, z: 2}
+        order: 1682
+        type: 13
+      - position: {x: 5, y: 30, z: 2}
+        order: 1683
+        type: 13
+      - position: {x: 5, y: 30, z: 3}
+        order: 1684
+        type: 13
+      - position: {x: 4, y: 30, z: 3}
+        order: 1685
+        type: 13
+      - position: {x: 3, y: 30, z: 3}
+        order: 1686
+        type: 13
+      - position: {x: 2, y: 30, z: 3}
+        order: 1687
+        type: 13
+      - position: {x: 1, y: 30, z: 3}
+        order: 1688
+        type: 13
+      - position: {x: 0, y: 30, z: 3}
+        order: 1689
+        type: 13
+      - position: {x: -1, y: 30, z: 3}
+        order: 1690
+        type: 13
+      - position: {x: -2, y: 30, z: 3}
+        order: 1691
+        type: 13
+      - position: {x: -3, y: 30, z: 3}
+        order: 1692
+        type: 13
+      - position: {x: -4, y: 30, z: 3}
+        order: 1693
+        type: 13
+      - position: {x: -5, y: 30, z: 3}
+        order: 1694
+        type: 13
+      - position: {x: -5, y: 30, z: 4}
+        order: 1695
+        type: 13
+      - position: {x: -4, y: 30, z: 4}
+        order: 1696
+        type: 13
+      - position: {x: -3, y: 30, z: 4}
+        order: 1697
+        type: 13
+      - position: {x: -2, y: 30, z: 4}
+        order: 1698
+        type: 13
+      - position: {x: -1, y: 30, z: 4}
+        order: 1699
+        type: 13
+      - position: {x: 0, y: 30, z: 4}
+        order: 1700
+        type: 13
+      - position: {x: 1, y: 30, z: 4}
+        order: 1701
+        type: 13
+      - position: {x: 2, y: 30, z: 4}
+        order: 1702
+        type: 13
+      - position: {x: 3, y: 30, z: 4}
+        order: 1703
+        type: 13
+      - position: {x: 4, y: 30, z: 4}
+        order: 1704
+        type: 13
+      - position: {x: 5, y: 30, z: 4}
+        order: 1705
+        type: 13
+      - position: {x: 5, y: 30, z: 5}
+        order: 1706
+        type: 13
+      - position: {x: 4, y: 30, z: 5}
+        order: 1707
+        type: 13
+      - position: {x: 3, y: 30, z: 5}
+        order: 1708
+        type: 13
+      - position: {x: 2, y: 30, z: 5}
+        order: 1709
+        type: 13
+      - position: {x: 1, y: 30, z: 5}
+        order: 1710
+        type: 13
+      - position: {x: 0, y: 30, z: 5}
+        order: 1711
+        type: 13
+      - position: {x: -1, y: 30, z: 5}
+        order: 1712
+        type: 13
+      - position: {x: -2, y: 30, z: 5}
+        order: 1713
+        type: 13
+      - position: {x: -3, y: 30, z: 5}
+        order: 1714
+        type: 13
+      - position: {x: -4, y: 30, z: 5}
+        order: 1715
+        type: 13
+      - position: {x: -5, y: 30, z: 5}
+        order: 1716
+        type: 13
+      - position: {x: -5, y: 31, z: 5}
+        order: 1717
+        type: 9
+      - position: {x: -5, y: 31, z: 4}
+        order: 1718
+        type: 5
+      - position: {x: -5, y: 31, z: 3}
+        order: 1719
+        type: 5
+      - position: {x: -5, y: 31, z: 2}
+        order: 1720
+        type: 5
+      - position: {x: -5, y: 31, z: 1}
+        order: 1721
+        type: 5
+      - position: {x: -5, y: 31, z: 0}
+        order: 1722
+        type: 9
+      - position: {x: -5, y: 31, z: -1}
+        order: 1723
+        type: 5
+      - position: {x: -5, y: 31, z: -2}
+        order: 1724
+        type: 5
+      - position: {x: -5, y: 31, z: -3}
+        order: 1725
+        type: 5
+      - position: {x: -5, y: 31, z: -4}
+        order: 1726
+        type: 5
+      - position: {x: -5, y: 31, z: -5}
+        order: 1727
+        type: 9
+      - position: {x: -4, y: 31, z: -5}
+        order: 1728
+        type: 5
+      - position: {x: -3, y: 31, z: -5}
+        order: 1729
+        type: 5
+      - position: {x: -2, y: 31, z: -5}
+        order: 1730
+        type: 5
+      - position: {x: -1, y: 31, z: -5}
+        order: 1731
+        type: 5
+      - position: {x: 0, y: 31, z: -5}
+        order: 1732
+        type: 9
+      - position: {x: 1, y: 31, z: -5}
+        order: 1733
+        type: 5
+      - position: {x: 2, y: 31, z: -5}
+        order: 1734
+        type: 5
+      - position: {x: 3, y: 31, z: -5}
+        order: 1735
+        type: 5
+      - position: {x: 4, y: 31, z: -5}
+        order: 1736
+        type: 5
+      - position: {x: 5, y: 31, z: -5}
+        order: 1737
+        type: 9
+      - position: {x: 5, y: 31, z: -4}
+        order: 1738
+        type: 5
+      - position: {x: 5, y: 31, z: -3}
+        order: 1739
+        type: 5
+      - position: {x: 5, y: 31, z: -2}
+        order: 1740
+        type: 5
+      - position: {x: 5, y: 31, z: -1}
+        order: 1741
+        type: 5
+      - position: {x: 5, y: 31, z: 0}
+        order: 1742
+        type: 9
+      - position: {x: 5, y: 31, z: 1}
+        order: 1743
+        type: 5
+      - position: {x: 5, y: 31, z: 2}
+        order: 1744
+        type: 5
+      - position: {x: 5, y: 31, z: 3}
+        order: 1745
+        type: 5
+      - position: {x: 5, y: 31, z: 4}
+        order: 1746
+        type: 5
+      - position: {x: 5, y: 31, z: 5}
+        order: 1747
+        type: 9
+      - position: {x: 4, y: 31, z: 5}
+        order: 1748
+        type: 5
+      - position: {x: 3, y: 31, z: 5}
+        order: 1749
+        type: 5
+      - position: {x: 2, y: 31, z: 5}
+        order: 1750
+        type: 5
+      - position: {x: 1, y: 31, z: 5}
+        order: 1751
+        type: 5
+      - position: {x: 0, y: 31, z: 5}
+        order: 1752
+        type: 9
+      - position: {x: -1, y: 31, z: 5}
+        order: 1753
+        type: 5
+      - position: {x: -2, y: 31, z: 5}
+        order: 1754
+        type: 5
+      - position: {x: -3, y: 31, z: 5}
+        order: 1755
+        type: 5
+      - position: {x: -4, y: 31, z: 5}
+        order: 1756
+        type: 5
+      - position: {x: -4, y: 32, z: 5}
+        order: 1757
+        type: 5
+      - position: {x: -5, y: 32, z: 5}
+        order: 1758
+        type: 9
+      - position: {x: -5, y: 32, z: 4}
+        order: 1759
+        type: 5
+      - position: {x: -5, y: 32, z: 3}
+        order: 1760
+        type: 5
+      - position: {x: -5, y: 32, z: 2}
+        order: 1761
+        type: 5
+      - position: {x: -5, y: 32, z: 1}
+        order: 1762
+        type: 5
+      - position: {x: -5, y: 32, z: 0}
+        order: 1763
+        type: 9
+      - position: {x: -5, y: 32, z: -1}
+        order: 1764
+        type: 5
+      - position: {x: -5, y: 32, z: -2}
+        order: 1765
+        type: 5
+      - position: {x: -5, y: 32, z: -3}
+        order: 1766
+        type: 5
+      - position: {x: -5, y: 32, z: -4}
+        order: 1767
+        type: 5
+      - position: {x: -5, y: 32, z: -5}
+        order: 1768
+        type: 9
+      - position: {x: -4, y: 32, z: -5}
+        order: 1769
+        type: 5
+      - position: {x: -3, y: 32, z: -5}
+        order: 1770
+        type: 5
+      - position: {x: -2, y: 32, z: -5}
+        order: 1771
+        type: 5
+      - position: {x: -1, y: 32, z: -5}
+        order: 1772
+        type: 5
+      - position: {x: 0, y: 32, z: -5}
+        order: 1773
+        type: 9
+      - position: {x: 1, y: 32, z: -5}
+        order: 1774
+        type: 5
+      - position: {x: 2, y: 32, z: -5}
+        order: 1775
+        type: 5
+      - position: {x: 3, y: 32, z: -5}
+        order: 1776
+        type: 5
+      - position: {x: 4, y: 32, z: -5}
+        order: 1777
+        type: 5
+      - position: {x: 5, y: 32, z: -5}
+        order: 1778
+        type: 9
+      - position: {x: 5, y: 32, z: -4}
+        order: 1779
+        type: 5
+      - position: {x: 5, y: 32, z: -3}
+        order: 1780
+        type: 5
+      - position: {x: 5, y: 32, z: -2}
+        order: 1781
+        type: 5
+      - position: {x: 5, y: 32, z: -1}
+        order: 1782
+        type: 5
+      - position: {x: 5, y: 32, z: 0}
+        order: 1783
+        type: 9
+      - position: {x: 5, y: 32, z: 1}
+        order: 1784
+        type: 5
+      - position: {x: 5, y: 32, z: 2}
+        order: 1785
+        type: 5
+      - position: {x: 5, y: 32, z: 3}
+        order: 1786
+        type: 5
+      - position: {x: 5, y: 32, z: 4}
+        order: 1787
+        type: 5
+      - position: {x: 5, y: 32, z: 5}
+        order: 1788
+        type: 9
+      - position: {x: 4, y: 32, z: 5}
+        order: 1789
+        type: 5
+      - position: {x: 3, y: 32, z: 5}
+        order: 1790
+        type: 5
+      - position: {x: 2, y: 32, z: 5}
+        order: 1791
+        type: 5
+      - position: {x: 1, y: 32, z: 5}
+        order: 1792
+        type: 5
+      - position: {x: 0, y: 32, z: 5}
+        order: 1793
+        type: 9
+      - position: {x: -1, y: 32, z: 5}
+        order: 1794
+        type: 5
+      - position: {x: -2, y: 32, z: 5}
+        order: 1795
+        type: 5
+      - position: {x: -3, y: 32, z: 5}
+        order: 1796
+        type: 5
+      - position: {x: -3, y: 33, z: 5}
+        order: 1797
+        type: 5
+      - position: {x: -4, y: 33, z: 5}
+        order: 1798
+        type: 5
+      - position: {x: -5, y: 33, z: 5}
+        order: 1799
+        type: 9
+      - position: {x: -5, y: 33, z: 4}
+        order: 1800
+        type: 5
+      - position: {x: -5, y: 33, z: 3}
+        order: 1801
+        type: 5
+      - position: {x: -5, y: 33, z: 2}
+        order: 1802
+        type: 5
+      - position: {x: -5, y: 33, z: 1}
+        order: 1803
+        type: 5
+      - position: {x: -5, y: 33, z: 0}
+        order: 1804
+        type: 9
+      - position: {x: -5, y: 33, z: -1}
+        order: 1805
+        type: 5
+      - position: {x: -5, y: 33, z: -2}
+        order: 1806
+        type: 5
+      - position: {x: -5, y: 33, z: -3}
+        order: 1807
+        type: 5
+      - position: {x: -5, y: 33, z: -4}
+        order: 1808
+        type: 5
+      - position: {x: -5, y: 33, z: -5}
+        order: 1809
+        type: 9
+      - position: {x: -4, y: 33, z: -5}
+        order: 1810
+        type: 5
+      - position: {x: -3, y: 33, z: -5}
+        order: 1811
+        type: 5
+      - position: {x: -2, y: 33, z: -5}
+        order: 1812
+        type: 5
+      - position: {x: -1, y: 33, z: -5}
+        order: 1813
+        type: 5
+      - position: {x: 0, y: 33, z: -5}
+        order: 1814
+        type: 9
+      - position: {x: 1, y: 33, z: -5}
+        order: 1815
+        type: 5
+      - position: {x: 2, y: 33, z: -5}
+        order: 1816
+        type: 5
+      - position: {x: 3, y: 33, z: -5}
+        order: 1817
+        type: 5
+      - position: {x: 4, y: 33, z: -5}
+        order: 1818
+        type: 5
+      - position: {x: 5, y: 33, z: -5}
+        order: 1819
+        type: 9
+      - position: {x: 5, y: 33, z: -4}
+        order: 1820
+        type: 5
+      - position: {x: 5, y: 33, z: -3}
+        order: 1821
+        type: 5
+      - position: {x: 5, y: 33, z: -2}
+        order: 1822
+        type: 5
+      - position: {x: 5, y: 33, z: -1}
+        order: 1823
+        type: 5
+      - position: {x: 5, y: 33, z: 0}
+        order: 1824
+        type: 9
+      - position: {x: 5, y: 33, z: 1}
+        order: 1825
+        type: 5
+      - position: {x: 5, y: 33, z: 2}
+        order: 1826
+        type: 5
+      - position: {x: 5, y: 33, z: 3}
+        order: 1827
+        type: 5
+      - position: {x: 5, y: 33, z: 4}
+        order: 1828
+        type: 5
+      - position: {x: 5, y: 33, z: 5}
+        order: 1829
+        type: 9
+      - position: {x: 4, y: 33, z: 5}
+        order: 1830
+        type: 5
+      - position: {x: 3, y: 33, z: 5}
+        order: 1831
+        type: 5
+      - position: {x: 2, y: 33, z: 5}
+        order: 1832
+        type: 5
+      - position: {x: 1, y: 33, z: 5}
+        order: 1833
+        type: 5
+      - position: {x: 0, y: 33, z: 5}
+        order: 1834
+        type: 9
+      - position: {x: -1, y: 33, z: 5}
+        order: 1835
+        type: 5
+      - position: {x: -2, y: 33, z: 5}
+        order: 1836
+        type: 5
+      - position: {x: -2, y: 34, z: 5}
+        order: 1837
+        type: 5
+      - position: {x: -3, y: 34, z: 5}
+        order: 1838
+        type: 5
+      - position: {x: -4, y: 34, z: 5}
+        order: 1839
+        type: 5
+      - position: {x: -5, y: 34, z: 5}
+        order: 1840
+        type: 9
+      - position: {x: -5, y: 34, z: 4}
+        order: 1841
+        type: 5
+      - position: {x: -5, y: 34, z: 3}
+        order: 1842
+        type: 5
+      - position: {x: -5, y: 34, z: 2}
+        order: 1843
+        type: 5
+      - position: {x: -5, y: 34, z: 1}
+        order: 1844
+        type: 5
+      - position: {x: -5, y: 34, z: 0}
+        order: 1845
+        type: 9
+      - position: {x: -5, y: 34, z: -1}
+        order: 1846
+        type: 5
+      - position: {x: -5, y: 34, z: -2}
+        order: 1847
+        type: 5
+      - position: {x: -5, y: 34, z: -3}
+        order: 1848
+        type: 5
+      - position: {x: -5, y: 34, z: -4}
+        order: 1849
+        type: 5
+      - position: {x: -5, y: 34, z: -5}
+        order: 1850
+        type: 9
+      - position: {x: -4, y: 34, z: -5}
+        order: 1851
+        type: 5
+      - position: {x: -3, y: 34, z: -5}
+        order: 1852
+        type: 5
+      - position: {x: -2, y: 34, z: -5}
+        order: 1853
+        type: 5
+      - position: {x: -1, y: 34, z: -5}
+        order: 1854
+        type: 5
+      - position: {x: 0, y: 34, z: -5}
+        order: 1855
+        type: 9
+      - position: {x: 1, y: 34, z: -5}
+        order: 1856
+        type: 5
+      - position: {x: 2, y: 34, z: -5}
+        order: 1857
+        type: 5
+      - position: {x: 3, y: 34, z: -5}
+        order: 1858
+        type: 5
+      - position: {x: 4, y: 34, z: -5}
+        order: 1859
+        type: 5
+      - position: {x: 5, y: 34, z: -5}
+        order: 1860
+        type: 9
+      - position: {x: 5, y: 34, z: -4}
+        order: 1861
+        type: 5
+      - position: {x: 5, y: 34, z: -3}
+        order: 1862
+        type: 5
+      - position: {x: 5, y: 34, z: -2}
+        order: 1863
+        type: 5
+      - position: {x: 5, y: 34, z: -1}
+        order: 1864
+        type: 5
+      - position: {x: 5, y: 34, z: 0}
+        order: 1865
+        type: 9
+      - position: {x: 5, y: 34, z: 1}
+        order: 1866
+        type: 5
+      - position: {x: 5, y: 34, z: 2}
+        order: 1867
+        type: 5
+      - position: {x: 5, y: 34, z: 3}
+        order: 1868
+        type: 5
+      - position: {x: 5, y: 34, z: 4}
+        order: 1869
+        type: 5
+      - position: {x: 5, y: 34, z: 5}
+        order: 1870
+        type: 9
+      - position: {x: 4, y: 34, z: 5}
+        order: 1871
+        type: 5
+      - position: {x: 3, y: 34, z: 5}
+        order: 1872
+        type: 5
+      - position: {x: 2, y: 34, z: 5}
+        order: 1873
+        type: 5
+      - position: {x: 1, y: 34, z: 5}
+        order: 1874
+        type: 5
+      - position: {x: 0, y: 34, z: 5}
+        order: 1875
+        type: 9
+      - position: {x: -1, y: 34, z: 5}
+        order: 1876
+        type: 5
+      - position: {x: -1, y: 35, z: 5}
+        order: 1877
+        type: 5
+      - position: {x: -2, y: 35, z: 5}
+        order: 1878
+        type: 5
+      - position: {x: -3, y: 35, z: 5}
+        order: 1879
+        type: 5
+      - position: {x: -4, y: 35, z: 5}
+        order: 1880
+        type: 5
+      - position: {x: -5, y: 35, z: 5}
+        order: 1881
+        type: 9
+      - position: {x: -5, y: 35, z: 4}
+        order: 1882
+        type: 5
+      - position: {x: -5, y: 35, z: 3}
+        order: 1883
+        type: 5
+      - position: {x: -5, y: 35, z: 2}
+        order: 1884
+        type: 5
+      - position: {x: -5, y: 35, z: 1}
+        order: 1885
+        type: 5
+      - position: {x: -5, y: 35, z: 0}
+        order: 1886
+        type: 9
+      - position: {x: -5, y: 35, z: -1}
+        order: 1887
+        type: 5
+      - position: {x: -5, y: 35, z: -2}
+        order: 1888
+        type: 5
+      - position: {x: -5, y: 35, z: -3}
+        order: 1889
+        type: 5
+      - position: {x: -5, y: 35, z: -4}
+        order: 1890
+        type: 5
+      - position: {x: -5, y: 35, z: -5}
+        order: 1891
+        type: 9
+      - position: {x: -4, y: 35, z: -5}
+        order: 1892
+        type: 5
+      - position: {x: -3, y: 35, z: -5}
+        order: 1893
+        type: 5
+      - position: {x: -2, y: 35, z: -5}
+        order: 1894
+        type: 5
+      - position: {x: -1, y: 35, z: -5}
+        order: 1895
+        type: 5
+      - position: {x: 0, y: 35, z: -5}
+        order: 1896
+        type: 9
+      - position: {x: 1, y: 35, z: -5}
+        order: 1897
+        type: 5
+      - position: {x: 2, y: 35, z: -5}
+        order: 1898
+        type: 5
+      - position: {x: 3, y: 35, z: -5}
+        order: 1899
+        type: 5
+      - position: {x: 4, y: 35, z: -5}
+        order: 1900
+        type: 5
+      - position: {x: 5, y: 35, z: -5}
+        order: 1901
+        type: 9
+      - position: {x: 5, y: 35, z: -4}
+        order: 1902
+        type: 5
+      - position: {x: 5, y: 35, z: -3}
+        order: 1903
+        type: 5
+      - position: {x: 5, y: 35, z: -2}
+        order: 1904
+        type: 5
+      - position: {x: 5, y: 35, z: -1}
+        order: 1905
+        type: 5
+      - position: {x: 5, y: 35, z: 0}
+        order: 1906
+        type: 9
+      - position: {x: 5, y: 35, z: 1}
+        order: 1907
+        type: 5
+      - position: {x: 5, y: 35, z: 2}
+        order: 1908
+        type: 5
+      - position: {x: 5, y: 35, z: 3}
+        order: 1909
+        type: 5
+      - position: {x: 5, y: 35, z: 4}
+        order: 1910
+        type: 5
+      - position: {x: 5, y: 35, z: 5}
+        order: 1911
+        type: 9
+      - position: {x: 4, y: 35, z: 5}
+        order: 1912
+        type: 5
+      - position: {x: 3, y: 35, z: 5}
+        order: 1913
+        type: 5
+      - position: {x: 2, y: 35, z: 5}
+        order: 1914
+        type: 5
+      - position: {x: 1, y: 35, z: 5}
+        order: 1915
+        type: 5
+      - position: {x: 0, y: 35, z: 5}
+        order: 1916
+        type: 9
+      - position: {x: 0, y: 36, z: 5}
+        order: 1917
+        type: 13
+      - position: {x: -1, y: 36, z: 5}
+        order: 1918
+        type: 13
+      - position: {x: -2, y: 36, z: 5}
+        order: 1919
+        type: 13
+      - position: {x: -3, y: 36, z: 5}
+        order: 1920
+        type: 13
+      - position: {x: -4, y: 36, z: 5}
+        order: 1921
+        type: 13
+      - position: {x: -5, y: 36, z: 5}
+        order: 1922
+        type: 13
+      - position: {x: -5, y: 36, z: 4}
+        order: 1923
+        type: 13
+      - position: {x: -5, y: 36, z: 3}
+        order: 1924
+        type: 13
+      - position: {x: -5, y: 36, z: 2}
+        order: 1925
+        type: 13
+      - position: {x: -5, y: 36, z: 1}
+        order: 1926
+        type: 13
+      - position: {x: -5, y: 36, z: 0}
+        order: 1927
+        type: 13
+      - position: {x: -5, y: 36, z: -1}
+        order: 1928
+        type: 13
+      - position: {x: -5, y: 36, z: -2}
+        order: 1929
+        type: 13
+      - position: {x: -5, y: 36, z: -3}
+        order: 1930
+        type: 13
+      - position: {x: -5, y: 36, z: -4}
+        order: 1931
+        type: 13
+      - position: {x: -5, y: 36, z: -5}
+        order: 1932
+        type: 13
+      - position: {x: -4, y: 36, z: -5}
+        order: 1933
+        type: 13
+      - position: {x: -4, y: 36, z: -4}
+        order: 1934
+        type: 13
+      - position: {x: -4, y: 36, z: -3}
+        order: 1935
+        type: 13
+      - position: {x: -4, y: 36, z: -2}
+        order: 1936
+        type: 13
+      - position: {x: -4, y: 36, z: -1}
+        order: 1937
+        type: 13
+      - position: {x: -4, y: 36, z: 0}
+        order: 1938
+        type: 13
+      - position: {x: -4, y: 36, z: 1}
+        order: 1939
+        type: 13
+      - position: {x: -4, y: 36, z: 2}
+        order: 1940
+        type: 13
+      - position: {x: -4, y: 36, z: 3}
+        order: 1941
+        type: 13
+      - position: {x: -4, y: 36, z: 4}
+        order: 1942
+        type: 13
+      - position: {x: -3, y: 36, z: 4}
+        order: 1943
+        type: 13
+      - position: {x: -3, y: 36, z: 3}
+        order: 1944
+        type: 13
+      - position: {x: -3, y: 36, z: 2}
+        order: 1945
+        type: 13
+      - position: {x: -3, y: 36, z: 1}
+        order: 1946
+        type: 13
+      - position: {x: -3, y: 36, z: 0}
+        order: 1947
+        type: 13
+      - position: {x: -3, y: 36, z: -1}
+        order: 1948
+        type: 13
+      - position: {x: -3, y: 36, z: -2}
+        order: 1949
+        type: 13
+      - position: {x: -3, y: 36, z: -3}
+        order: 1950
+        type: 13
+      - position: {x: -3, y: 36, z: -4}
+        order: 1951
+        type: 13
+      - position: {x: -3, y: 36, z: -5}
+        order: 1952
+        type: 13
+      - position: {x: -2, y: 36, z: -5}
+        order: 1953
+        type: 13
+      - position: {x: -2, y: 36, z: -4}
+        order: 1954
+        type: 13
+      - position: {x: -2, y: 36, z: -3}
+        order: 1955
+        type: 13
+      - position: {x: -2, y: 36, z: -2}
+        order: 1956
+        type: 13
+      - position: {x: -2, y: 36, z: -1}
+        order: 1957
+        type: 13
+      - position: {x: -2, y: 36, z: 0}
+        order: 1958
+        type: 13
+      - position: {x: -2, y: 36, z: 1}
+        order: 1959
+        type: 13
+      - position: {x: -2, y: 36, z: 2}
+        order: 1960
+        type: 13
+      - position: {x: -2, y: 36, z: 3}
+        order: 1961
+        type: 13
+      - position: {x: -2, y: 36, z: 4}
+        order: 1962
+        type: 13
+      - position: {x: -1, y: 36, z: 4}
+        order: 1963
+        type: 13
+      - position: {x: -1, y: 36, z: 3}
+        order: 1964
+        type: 13
+      - position: {x: -1, y: 36, z: 2}
+        order: 1965
+        type: 13
+      - position: {x: -1, y: 36, z: 1}
+        order: 1966
+        type: 13
+      - position: {x: -1, y: 36, z: 0}
+        order: 1967
+        type: 13
+      - position: {x: -1, y: 36, z: -1}
+        order: 1968
+        type: 13
+      - position: {x: -1, y: 36, z: -2}
+        order: 1969
+        type: 13
+      - position: {x: -1, y: 36, z: -3}
+        order: 1970
+        type: 13
+      - position: {x: -1, y: 36, z: -4}
+        order: 1971
+        type: 13
+      - position: {x: -1, y: 36, z: -5}
+        order: 1972
+        type: 13
+      - position: {x: 0, y: 36, z: -5}
+        order: 1973
+        type: 13
+      - position: {x: 0, y: 36, z: -4}
+        order: 1974
+        type: 13
+      - position: {x: 0, y: 36, z: -3}
+        order: 1975
+        type: 13
+      - position: {x: 0, y: 36, z: -2}
+        order: 1976
+        type: 13
+      - position: {x: 0, y: 36, z: -1}
+        order: 1977
+        type: 13
+      - position: {x: 0, y: 36, z: 0}
+        order: 1978
+        type: 13
+      - position: {x: 0, y: 36, z: 1}
+        order: 1979
+        type: 13
+      - position: {x: 0, y: 36, z: 2}
+        order: 1980
+        type: 13
+      - position: {x: 0, y: 36, z: 3}
+        order: 1981
+        type: 13
+      - position: {x: 0, y: 36, z: 4}
+        order: 1982
+        type: 13
+      - position: {x: 1, y: 36, z: 4}
+        order: 1983
+        type: 13
+      - position: {x: 1, y: 36, z: 3}
+        order: 1984
+        type: 13
+      - position: {x: 1, y: 36, z: 2}
+        order: 1985
+        type: 13
+      - position: {x: 1, y: 36, z: 1}
+        order: 1986
+        type: 13
+      - position: {x: 1, y: 36, z: 0}
+        order: 1987
+        type: 13
+      - position: {x: 1, y: 36, z: -1}
+        order: 1988
+        type: 13
+      - position: {x: 1, y: 36, z: -2}
+        order: 1989
+        type: 13
+      - position: {x: 1, y: 36, z: -3}
+        order: 1990
+        type: 13
+      - position: {x: 1, y: 36, z: -4}
+        order: 1991
+        type: 13
+      - position: {x: 1, y: 36, z: -5}
+        order: 1992
+        type: 13
+      - position: {x: 2, y: 36, z: -5}
+        order: 1993
+        type: 13
+      - position: {x: 2, y: 36, z: -4}
+        order: 1994
+        type: 13
+      - position: {x: 2, y: 36, z: -3}
+        order: 1995
+        type: 13
+      - position: {x: 2, y: 36, z: -2}
+        order: 1996
+        type: 13
+      - position: {x: 2, y: 36, z: -1}
+        order: 1997
+        type: 13
+      - position: {x: 2, y: 36, z: 0}
+        order: 1998
+        type: 13
+      - position: {x: 2, y: 36, z: 1}
+        order: 1999
+        type: 13
+      - position: {x: 2, y: 36, z: 2}
+        order: 2000
+        type: 13
+      - position: {x: 2, y: 36, z: 3}
+        order: 2001
+        type: 13
+      - position: {x: 2, y: 36, z: 4}
+        order: 2002
+        type: 13
+      - position: {x: 1, y: 36, z: 5}
+        order: 2003
+        type: 13
+      - position: {x: 2, y: 36, z: 5}
+        order: 2004
+        type: 13
+      - position: {x: 3, y: 36, z: 5}
+        order: 2005
+        type: 13
+      - position: {x: 3, y: 36, z: 4}
+        order: 2006
+        type: 13
+      - position: {x: 3, y: 36, z: 3}
+        order: 2007
+        type: 13
+      - position: {x: 3, y: 36, z: 2}
+        order: 2008
+        type: 13
+      - position: {x: 3, y: 36, z: 1}
+        order: 2009
+        type: 13
+      - position: {x: 3, y: 36, z: 0}
+        order: 2010
+        type: 13
+      - position: {x: 3, y: 36, z: -1}
+        order: 2011
+        type: 13
+      - position: {x: 3, y: 36, z: -2}
+        order: 2012
+        type: 13
+      - position: {x: 3, y: 36, z: -3}
+        order: 2013
+        type: 13
+      - position: {x: 3, y: 36, z: -4}
+        order: 2014
+        type: 13
+      - position: {x: 3, y: 36, z: -5}
+        order: 2015
+        type: 13
+      - position: {x: 4, y: 36, z: -5}
+        order: 2016
+        type: 13
+      - position: {x: 4, y: 36, z: -4}
+        order: 2017
+        type: 13
+      - position: {x: 4, y: 36, z: -3}
+        order: 2018
+        type: 13
+      - position: {x: 4, y: 36, z: -2}
+        order: 2019
+        type: 13
+      - position: {x: 4, y: 36, z: -1}
+        order: 2020
+        type: 13
+      - position: {x: 4, y: 36, z: 0}
+        order: 2021
+        type: 13
+      - position: {x: 4, y: 36, z: 1}
+        order: 2022
+        type: 13
+      - position: {x: 4, y: 36, z: 2}
+        order: 2023
+        type: 13
+      - position: {x: 4, y: 36, z: 3}
+        order: 2024
+        type: 13
+      - position: {x: 4, y: 36, z: 4}
+        order: 2025
+        type: 13
+      - position: {x: 4, y: 36, z: 5}
+        order: 2026
+        type: 13
+      - position: {x: 5, y: 36, z: 5}
+        order: 2027
+        type: 13
+      - position: {x: 5, y: 36, z: 4}
+        order: 2028
+        type: 13
+      - position: {x: 5, y: 36, z: 3}
+        order: 2029
+        type: 13
+      - position: {x: 5, y: 36, z: 2}
+        order: 2030
+        type: 13
+      - position: {x: 5, y: 36, z: 1}
+        order: 2031
+        type: 13
+      - position: {x: 5, y: 36, z: 0}
+        order: 2032
+        type: 13
+      - position: {x: 5, y: 36, z: -1}
+        order: 2033
+        type: 13
+      - position: {x: 5, y: 36, z: -2}
+        order: 2034
+        type: 13
+      - position: {x: 5, y: 36, z: -3}
+        order: 2035
+        type: 13
+      - position: {x: 5, y: 36, z: -4}
+        order: 2036
+        type: 13
+      - position: {x: 5, y: 36, z: -5}
+        order: 2037
+        type: 13
+      - position: {x: 0, y: 37, z: 0}
+        order: 2038
+        type: 19
+      - position: {x: 0, y: 38, z: 0}
+        order: 2039
+        type: 19
+      - position: {x: 0, y: 39, z: 0}
+        order: 2040
+        type: 19
+      - position: {x: 0, y: 40, z: 0}
+        order: 2041
+        type: 19
+      - position: {x: 0, y: 41, z: 0}
+        order: 2042
+        type: 19
+  blockPrefab: {fileID: 7522993562035860422, guid: 7dab8bf7dbc9d0a4e83142bafbaa24b6, type: 3}
+  blockMaterial: {fileID: 2100000, guid: bf9f1d2349328fa4ca18d4c237c74ac1, type: 2}
+  useAtlas: 1

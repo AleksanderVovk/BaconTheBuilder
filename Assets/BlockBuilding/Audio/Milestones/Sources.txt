@@ -1,0 +1,5 @@
+BuildSuccess.wav: Win sound effect by Listener, CC0
+https://opengameart.org/content/win-sound-effect
+BuildImpact.ogg: 10 Impact/Shield Blocks, impact.4.ogg by StarNinjas, CC0
+https://opengameart.org/content/10-impactshield-blocks
+Downloaded 2026-10-27. Original recordings, not generated audio.

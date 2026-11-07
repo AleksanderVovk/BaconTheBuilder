@@ -1,0 +1,6 @@
+Rocket Engine
+Author: theMinesAreShakin
+Source: https://opengameart.org/content/rocket-engine
+File: https://opengameart.org/sites/default/files/rocket_engine.001.wav
+License: CC0 https://creativecommons.org/publicdomain/zero/1.0/
+Downloaded for jetpack engine loop. Original downloaded audio, not synthesized.

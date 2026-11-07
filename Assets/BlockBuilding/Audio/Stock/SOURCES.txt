@@ -1,0 +1,20 @@
+Downloaded stock sounds by Kenney. License: CC0. No procedural or AI-generated replacement audio.
+Original license files are included next to the OGG files.
+
+click_001.ogg | https://kenney.nl/assets/interface-sounds | SHA256 ccfb7fa0cccdd9faec0eb16033c732b1e308d139d80f799161495d58f7adcdb9
+close_001.ogg | https://kenney.nl/assets/interface-sounds | SHA256 44af8249b933e0fd35ec957a638bb1a0b01f85b53fbe9674bf77bd3ca3168ef4
+confirmation_002.ogg | https://kenney.nl/assets/interface-sounds | SHA256 33b17a9a9a2397c62b285c52c33a907fdffb476909c99e42dde603f6a7a8b12c
+impactGeneric_light_000.ogg | https://kenney.nl/assets/impact-sounds | SHA256 f0e982611e97512fee5f777986b67e8b435434b601f94992ec044f7e89fb5acb
+impactGeneric_light_001.ogg | https://kenney.nl/assets/impact-sounds | SHA256 c3cd1c073d186ae8fa35788ba94de581f1826e7427a7bb26490b2695fac18efa
+impactGlass_light_000.ogg | https://kenney.nl/assets/impact-sounds | SHA256 d750cf88097d0c3e69920e6e14496e1444e1a9da01aa4cca8f5ec8cb44c57b4f
+impactGlass_light_001.ogg | https://kenney.nl/assets/impact-sounds | SHA256 05e513fbd42829060eb37855f8c3866722ec5c39a8937c9bfde518cc609effa2
+impactMetal_light_000.ogg | https://kenney.nl/assets/impact-sounds | SHA256 33b5e6e37c6e9d54e07bf5a89b12c76e879f40c1ea83cdd82714df1d6f9fec6d
+impactSoft_medium_000.ogg | https://kenney.nl/assets/impact-sounds | SHA256 7d3ba0bb5e60a11b5d3e558c141303dcf494256675fbf753c0d252d2cf0481e3
+impactWood_light_000.ogg | https://kenney.nl/assets/impact-sounds | SHA256 eb45e35b4bed784d3f120de4afec4b0d6ac09d9e143cce8cfcb7d739e1b1f3c3
+impactWood_light_001.ogg | https://kenney.nl/assets/impact-sounds | SHA256 4b76bf3ccc8e60d19188f3165b778a7817786faa6887c55d9049bcbeef3b425f
+open_001.ogg | https://kenney.nl/assets/interface-sounds | SHA256 a27c6bb0df7da1e6af5dd5937593c98bc58b6e513f42fe6a3254cd6a6949c648
+phaseJump1.ogg | https://kenney.nl/assets/digital-audio | SHA256 c60069ed7108678dd6a1306404d168a93cc2575cda37b06add9dd6c4d46352a3
+pluck_001.ogg | https://kenney.nl/assets/interface-sounds | SHA256 be97ec4893a02d6eccfb678daa76c83e34cb2583b834ec2593d2641def739fa4
+powerUp5.ogg | https://kenney.nl/assets/digital-audio | SHA256 528e7245a1b61c6fd94bcb8df1d747e6e9b76dce58a36e44be992cf9e09884f8
+select_003.ogg | https://kenney.nl/assets/interface-sounds | SHA256 9a612fd2f513d52a296906b41071c990f75defe56be3bee60d2d4e2423b51b8b
+threeTone1.ogg | https://kenney.nl/assets/digital-audio | SHA256 bdf21eb12e65507f091d074886fdac820e1ccae51d060caa168e5567acadb84b

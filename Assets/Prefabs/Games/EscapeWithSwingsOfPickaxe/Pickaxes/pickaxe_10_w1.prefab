@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2547536649556549172
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 3d2fe33c09949de469e20ef3e6094f01, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.033006
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3d2fe33c09949de469e20ef3e6094f01, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.12500033
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3d2fe33c09949de469e20ef3e6094f01, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.0603187
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3d2fe33c09949de469e20ef3e6094f01, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071067
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3d2fe33c09949de469e20ef3e6094f01, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3d2fe33c09949de469e20ef3e6094f01, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3d2fe33c09949de469e20ef3e6094f01, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3d2fe33c09949de469e20ef3e6094f01, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3d2fe33c09949de469e20ef3e6094f01, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3d2fe33c09949de469e20ef3e6094f01, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 3d2fe33c09949de469e20ef3e6094f01, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 80ed79bc1a29cf94699f82dcd3c122fb, type: 2}
+    - target: {fileID: 919132149155446097, guid: 3d2fe33c09949de469e20ef3e6094f01, type: 3}
+      propertyPath: m_Name
+      value: pickaxe_10_w1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 3d2fe33c09949de469e20ef3e6094f01, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5118327935390665216}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 3d2fe33c09949de469e20ef3e6094f01, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7973794888947133098}
+  m_SourcePrefab: {fileID: 100100000, guid: 3d2fe33c09949de469e20ef3e6094f01, type: 3}
+--- !u!1 &3430549689267020645 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 3d2fe33c09949de469e20ef3e6094f01, type: 3}
+  m_PrefabInstance: {fileID: 2547536649556549172}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &5118327935390665216
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3430549689267020645}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.008154999, y: 0.001134, z: 0.01099}
+  m_Center: {x: 0.00005250005, y: 0, z: 0.005495}
+--- !u!114 &7973794888947133098
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3430549689267020645}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5cd8ce8be104d9408e14111bb6a7a2b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PickaxeEntity
+  damage: 1
+  hitCooldown: 0.25
+  canDealDamage: 1
+  setColliderAsTrigger: 1
+  addKinematicRigidbodyIfMissing: 1
+  searchBlockInParent: 1
+  showDebugLogs: 0
